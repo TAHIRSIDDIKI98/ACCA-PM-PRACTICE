@@ -1,0 +1,428 @@
+{
+  "title": "2024–2026 ACCA PM Pre-Mock & Recent Exam Collection",
+  "subtitle": "Includes published 2025–2026 ACCA Practice Platform Pre-Mock cases & examiner debriefs alongside 2024 kit sittings",
+  "kitRecentReferences": [
+    {
+      "kitNumber": 277,
+      "title": "Global Scan Co",
+      "sitting": "Sept/Dec 2024",
+      "topic": "Decision-Making Techniques (Relevant Cost & Limiting Factors)"
+    },
+    {
+      "kitNumber": 291,
+      "title": "Yetgo Co",
+      "sitting": "Sept/Dec 2024",
+      "topic": "Performance Measurement & Control"
+    },
+    {
+      "kitNumber": 252,
+      "title": "Runf",
+      "sitting": "Mar/Jun 2024",
+      "topic": "Decision-Making Techniques (Section B Case)"
+    },
+    {
+      "kitNumber": 281,
+      "title": "Venhosp",
+      "sitting": "Mar/Jun 2024",
+      "topic": "Budgeting & Control (Linear Regression & Performance)"
+    },
+    {
+      "kitNumber": 302,
+      "title": "Caroline Co",
+      "sitting": "Mar/Jun 2024",
+      "topic": "Performance Measurement (Divisional ROI/RI & Transfer Pricing)"
+    }
+  ],
+  "preMockCases": [
+    {
+      "id": "pm-2026-spike",
+      "section": "C",
+      "sitting": "Pre-June 2026 Official Pre-Mock",
+      "title": "SPIKE CO",
+      "topicId": "budgeting-control",
+      "topicTitle": "Budgeting and Control",
+      "totalMarks": 20,
+      "scenario": "Spike Co manufactures high-precision industrial sensors. The company operates a standard marginal costing system and prepares annual budgets in November for the following calendar year.\n\nIn Q1 20X6, an unexpected semiconductor supply disruption forced market prices for Microcontroller Unit M4 up by 18% globally across all suppliers. At the same time, Spike Co's production manager decided to trial an alternative calibration procedure without updating the standard card.\n\nBudgeted & Actual Data for Q1 20X6 (Actual Output: 4,200 sensors):\nStandard Material M4 per sensor: 2 units at original standard price $15.00/unit ($30.00).\nIndustry-wide revised standard price due to disruption: $17.70/unit.\nActual Material M4 purchased & used: 8,820 units at actual total cost $151,704 ($17.20/unit).\n\nStandard Direct Labour per sensor: 1.5 hours at $24.00/hour ($36.00).\nRevised standard labour efficiency following mandatory new safety checks: 1.6 hours/unit.\nActual Direct Labour worked & paid: 6,510 hours at $25.00/hour ($162,750).",
+      "requirements": [
+        {
+          "label": "(a)",
+          "text": "Calculate the material price and usage planning and operational variances, and the labour rate and efficiency planning and operational variances for Q1 20X6. (12 marks)",
+          "marks": 12,
+          "tool": "spreadsheet"
+        },
+        {
+          "label": "(b)",
+          "text": "Discuss the performance of the purchasing manager and production manager using your variance calculations, and evaluate the implications of frequent budget revisions for Spike Co. (8 marks)",
+          "marks": 8,
+          "tool": "word"
+        }
+      ],
+      "markingScheme": [
+        {
+          "label": "(a) Material price planning variance ($15.00 − $17.70) × 8,820 = $23,814 A",
+          "marks": 2
+        },
+        {
+          "label": "(a) Material price operational variance ($17.70 − $17.20) × 8,820 = $4,410 F",
+          "marks": 2
+        },
+        {
+          "label": "(a) Material usage planning & operational variances (4,200 × 2 − 8,820) × $15.00 = $6,300 A operational ($0 planning)",
+          "marks": 2
+        },
+        {
+          "label": "(a) Labour rate operational variance ($24 − $25) × 6,510 = $6,510 A ($0 planning)",
+          "marks": 2
+        },
+        {
+          "label": "(a) Labour efficiency planning variance (6,300 − 6,720) × $24 = $10,080 A",
+          "marks": 2
+        },
+        {
+          "label": "(a) Labour efficiency operational variance (6,720 − 6,510) × $24 = $5,040 F",
+          "marks": 2
+        },
+        {
+          "label": "(b) Assessment of purchasing manager (favourable operational performance despite market spike) & production manager",
+          "marks": 4
+        },
+        {
+          "label": "(b) Pros & cons of frequent budget revisions (accuracy vs cost, gaming/demotivation, rolling budgets alternative)",
+          "marks": 4
+        }
+      ],
+      "modelAnswer": "(a) Planning & Operational Variances (Q1 20X6, 4,200 sensors)\n\nMaterial M4 (Actual usage = 8,820 units vs Original Std = 8,400 units; Actual price = $17.20 vs Revised = $17.70 vs Orig = $15.00):\n• Material Price Planning Variance = ($15.00 − $17.70) × 8,820 = $23,814 (A) [uncontrollable global chip spike]\n• Material Price Operational Variance = ($17.70 − $17.20) × 8,820 = $4,410 (F) [negotiated below market]\n• Material Usage Planning Variance = $0 (no change in standard usage spec)\n• Material Usage Operational Variance = (8,400 − 8,820) × $15.00 = $6,300 (A) [420 extra units wasted]\n\nDirect Labour (Orig Std = 6,300 hrs; Revised Std = 4,200 × 1.6 = 6,720 hrs; Actual = 6,510 hrs @ $25/hr):\n• Labour Rate Planning = $0 | Operational = ($24 − $25) × 6,510 = $6,510 (A)\n• Labour Efficiency Planning = (6,300 − 6,720) × $24 = $10,080 (A) [new mandatory safety check]\n• Labour Efficiency Operational = (6,720 − 6,510) × $24 = $5,040 (F) [staff beat the revised 1.6 hr benchmark]\n\n(b) Performance Discussion & Budget Revisions:\n1. Purchasing Manager: Under traditional variance analysis, total price variance is $19,404 (A), which would unfairly demotivate the buyer. Splitting into planning/operational shows $23,814 (A) was uncontrollable market inflation while the buyer saved $4,410 (F) via strong sourcing.\n2. Production Manager: Labour efficiency improved by $5,040 (F) vs the revised 1.6 hr standard, though paying higher overtime/skilled rates caused $6,510 (A) rate variance and 420 extra M4 chips ($6,300 A) may reflect the unapproved calibration trial.\n3. Frequent Budget Revisions: Keeps targets realistic and fair (controllability principle), preventing demotivation. However, too-frequent revisions are costly, encourage managers to request upward cost revisions (\"budget gaming\"), and blur long-term accountability. Adopting quarterly rolling budgets is a disciplined compromise.",
+      "keyAnswerTip": "Always clearly separate uncontrollable external shifts (planning) from controllable execution (operational) and tie narrative comments directly to controllability and dysfunctional risk.",
+      "examinerComment": "In recent pre-mock debriefs, candidates frequently mixed up actual vs revised quantities or forgot to state Adverse (A) / Favourable (F). Always label every variance direction clearly."
+    },
+    {
+      "id": "pm-2026-bamburgh",
+      "section": "C",
+      "sitting": "March/June 2026 Published Exam",
+      "title": "BAMBURGH CO",
+      "topicId": "decision-making",
+      "topicTitle": "Decision-Making Techniques",
+      "totalMarks": 20,
+      "scenario": "Bamburgh Co develops low-carbon modular heat-pump controllers ('EcoUnit'). At a current selling price of $420 per unit, annual demand is 12,000 units. Market research indicates that for every $15 increase in selling price, annual demand falls by 600 units (and vice versa).\n\nCost structure for EcoUnit:\n• Variable manufacturing & component cost: $180 per unit\n• Incremental variable packaging & shipping: $20 per unit\n• Fixed development & tooling overheads: $1,200,000 per annum\n\nThe board is debating whether to price EcoUnit to maximise short-term annual profit (MC = MR) or adopt a market penetration strategy as part of a long-term green transition.",
+      "requirements": [
+        {
+          "label": "(a)",
+          "text": "Derive the demand equation P = a − bQ and calculate the profit-maximising selling price, output volume, and maximum annual profit for EcoUnit. (10 marks)",
+          "marks": 10,
+          "tool": "spreadsheet"
+        },
+        {
+          "label": "(b)",
+          "text": "Calculate the price elasticity of demand (PED) at the current price of $420 and advise whether lowering price from $420 increases or decreases total revenue. (4 marks)",
+          "marks": 4,
+          "tool": "spreadsheet"
+        },
+        {
+          "label": "(c)",
+          "text": "Evaluate the suitability of market penetration pricing vs profit-maximising pricing for Bamburgh Co’s EcoUnit over its product life cycle. (6 marks)",
+          "marks": 6,
+          "tool": "word"
+        }
+      ],
+      "markingScheme": [
+        {
+          "label": "(a) Gradient b = 15 / 600 = 0.025",
+          "marks": 2
+        },
+        {
+          "label": "(a) Intercept a = 420 + (0.025 × 12,000) = $720 (so P = 720 − 0.025Q)",
+          "marks": 2
+        },
+        {
+          "label": "(a) MR = 720 − 0.05Q; Set MR = MC ($200) -> Q = 10,400 units",
+          "marks": 3
+        },
+        {
+          "label": "(a) Optimal Price P = 720 − 0.025(10,400) = $460; Max Profit = ($460−$200)×10,400 − $1.2m = $1,504,000",
+          "marks": 3
+        },
+        {
+          "label": "(b) PED = (%ΔQ / %ΔP) = (−600/12,000) / (+15/420) = −5% / +3.57% = −1.40 (elastic -> cutting price raises revenue)",
+          "marks": 4
+        },
+        {
+          "label": "(c) Penetration pricing pros/cons (scale economies, barrier to rivals, green adoption) vs short-term profit max",
+          "marks": 6
+        }
+      ],
+      "modelAnswer": "(a) Demand Equation & Profit Maximisation\n• b = ΔP / ΔQ = 15 / 600 = 0.025\n• a = P + bQ = 420 + 0.025 × 12,000 = 420 + 300 = $720\n• Demand function: P = 720 − 0.025Q\n• Marginal Revenue: MR = 720 − 0.05Q\n• Marginal Cost: MC = $180 + $20 = $200\n• Set MR = MC: 720 − 0.05Q = 200 => 0.05Q = 520 => Q = 10,400 units\n• Optimal Price: P = 720 − 0.025(10,400) = 720 − 260 = $460\n• Maximum Annual Profit = Contribution ($460 − $200 = $260) × 10,400 − $1,200,000 = $2,704,000 − $1,200,000 = $1,504,000 (vs $1,440,000 at $420).\n\n(b) Price Elasticity of Demand at $420:\n• %ΔQ = −600 / 12,000 = −5.00%; %ΔP = +15 / 420 = +3.5714%\n• PED = −5.00% / 3.5714% = −1.40 (|PED| > 1 -> Elastic demand).\n• Since demand is elastic at $420, reducing price increases total revenue (though profit falls because MC is $200 > 0).\n\n(c) Strategic Evaluation:\nMarket penetration (low initial price) suits EcoUnit if Bamburgh Co wants rapid volume to achieve learning curves/economies of scale, establish technical standard lock-in with installers, and deter competitors entering the low-carbon market. However, raising price toward $460 maximises short-term cash flow to recover the $1.2m R&D tooling cost before imitators arrive.",
+      "keyAnswerTip": "Remember b = ΔP / ΔQ (price change over quantity change) and double b in MR = a − 2bQ. Never confuse total revenue maximisation (MR = 0) with profit maximisation (MR = MC).",
+      "examinerComment": "Strong scripts link the algebraic optimum directly to the strategic choice between capacity, learning effects, and R&D payback."
+    },
+    {
+      "id": "pm-2025-kaylene",
+      "section": "C",
+      "sitting": "September/December 2025 Published Exam",
+      "title": "KAYLENE CO",
+      "topicId": "decision-making",
+      "topicTitle": "Decision-Making Techniques",
+      "totalMarks": 20,
+      "scenario": "Kaylene Co manufactures and sells three models of washing machines: Workhorse and Pristine (household segment) and Jumbo (industrial segment sold to hotels and restaurants).\n\nBudgeted annual data:\nModel       | Selling Price | Variable Cost | Fixed OH (labour-absorbed) | Forecast Sales (units)\nWorkhorse   | $400          | $220          | $40                        | 4,000\nPristine    | $550          | $286          | $50                        | 2,500\nJumbo       | $1,200        | $840          | $80                        | 1,000\n\nTotal budgeted annual fixed costs are $1,375,000. A new CEO has joined and set an annual profit target of $200,000.\nThe household market is saturated, whereas industrial demand for Jumbo is growing rapidly—though securing large hotel contracts may require price discounts and increase Jumbo's share of the sales mix.",
+      "requirements": [
+        {
+          "label": "(a)",
+          "text": "Calculate the C/S ratio for each model and the overall weighted average C/S ratio (to 3 decimal places). (3 marks)",
+          "marks": 3,
+          "tool": "spreadsheet"
+        },
+        {
+          "label": "(b)",
+          "text": "Calculate the margin of safety (%) and explain its implications for Kaylene Co. (5 marks)",
+          "marks": 5,
+          "tool": "both"
+        },
+        {
+          "label": "(c)",
+          "text": "(i) Calculate the total sales revenue required to achieve the CEO’s $200,000 profit target and discuss if it is realistic. (ii) Explain the impact of increasing Jumbo’s share of sales on the weighted average C/S ratio and CVP profile. (8 marks)",
+          "marks": 8,
+          "tool": "both"
+        },
+        {
+          "label": "(d)",
+          "text": "Discuss TWO limitations of multi-product CVP analysis for Kaylene Co’s planning decisions. (4 marks)",
+          "marks": 4,
+          "tool": "word"
+        }
+      ],
+      "markingScheme": [
+        {
+          "label": "(a) Individual C/S ratios: Workhorse 0.450, Pristine 0.480, Jumbo 0.300",
+          "marks": 1.5
+        },
+        {
+          "label": "(a) Weighted average C/S ratio = $1,740,000 / $4,175,000 = 0.417 (41.68%)",
+          "marks": 1.5
+        },
+        {
+          "label": "(b) Breakeven revenue = $1,375,000 / 0.41677 = $3,299,210; Margin of Safety = 20.98% + Kaylene-specific discussion",
+          "marks": 5
+        },
+        {
+          "label": "(c)(i) Target revenue = ($1,375,000 + $200,000) / 0.41677 = $3,779,096 + realism discussion",
+          "marks": 4
+        },
+        {
+          "label": "(c)(ii) Jumbo has lowest C/S (0.300) -> higher Jumbo mix drags down avg C/S, raises BEP, narrows MoS",
+          "marks": 4
+        },
+        {
+          "label": "(d) Two explained limitations applied to Kaylene Co (constant mix assumption, linear costs/prices with discounts)",
+          "marks": 4
+        }
+      ],
+      "modelAnswer": "(a) Individual & Weighted Average C/S Ratios:\nNote: Ignore absorbed fixed overhead per unit ($40/$50/$80) when finding unit contribution!\n• Workhorse: Contribution = $400 − $220 = $180 | C/S = 180/400 = 0.450 (Total Rev = $1,600k, Total Cont = $720k)\n• Pristine: Contribution = $550 − $286 = $264 | C/S = 264/550 = 0.480 (Total Rev = $1,375k, Total Cont = $660k)\n• Jumbo: Contribution = $1,200 − $840 = $360 | C/S = 360/1,200 = 0.300 (Total Rev = $1,200k, Total Cont = $360k)\n• Totals: Revenue = $4,175,000 | Contribution = $1,740,000\n• Weighted Average C/S Ratio = $1,740,000 / $4,175,000 = 0.417 (41.68%)\n\n(b) Margin of Safety:\n• Breakeven Revenue = $1,375,000 / (1,740/4,175) = $3,299,210\n• Margin of Safety = ($4,175,000 − $3,299,210) / $4,175,000 = 20.98% (or $875,790 revenue).\nImplication: Sales can fall by ~21% before making a loss, giving moderate protection, though saturated household demand makes high-margin Workhorse/Pristine sales vulnerable.\n\n(c)(i) Target Profit = ($1,375,000 + $200,000) / 0.41677 = $3,779,096 — actually BELOW budgeted revenue ($4,175,000, which yields $365,000 profit), so $200,000 is realistic unless major mix shifts or price cuts erode margins.\n(c)(ii) Shifting mix toward Jumbo (C/S = 0.300, vs 0.450/0.480) lowers the weighted average C/S ratio. If discounts are given on Jumbo, its C/S falls even further—pushing breakeven revenue UP and shrinking Margin of Safety.\n\n(d) Limitations: (1) Constant sales mix assumption is breached by rapid Jumbo growth and household saturation. (2) Linear revenue/cost assumption fails when bulk hotel discounts are offered on Jumbo.",
+      "keyAnswerTip": "Always verify that your weighted average C/S ratio sits between the lowest (0.300) and highest (0.480) product C/S ratios, and use exact unrounded ratios inside intermediate Excel/spreadsheet cells.",
+      "examinerComment": "Candidates often forgot to strip out absorbed fixed overheads when calculating unit contribution, or wrote generic CVP textbook definitions without linking to Jumbo’s lower C/S ratio."
+    },
+    {
+      "id": "pm-2025-quality-tyres",
+      "section": "C",
+      "sitting": "March/June 2025 Published Exam",
+      "title": "QUALITY TYRE CO",
+      "topicId": "budgeting-control",
+      "topicTitle": "Budgeting and Control",
+      "totalMarks": 20,
+      "scenario": "Quality Tyre Co manufactures commercial vehicle tyres in two models: Basic and Sport. The company has transitioned from Activity-Based Costing (ABC) to Activity-Based Budgeting (ABB) for the upcoming year 20X6.\n\nForecast Sales & Inventory Policy:\n• Basic: Forecast sales 48,000 tyres; Opening finished inventory 3,000 tyres; Target closing inventory = 1 month of next year's sales (4,000 tyres).\n• Sport: Forecast sales 24,000 tyres; Opening finished inventory 2,500 tyres; Target closing inventory = 2,000 tyres.\n\nOperational & Driver Data:\n• Batch size: Basic = 500 tyres/batch; Sport = 200 tyres/batch.\n• Machine set-ups: 1 set-up per batch. 20X5 rate $420/set-up (+5% general inflation).\n• Quality control: 1 inspection every 50th tyre produced. 20X5 rate $18/inspection (+5% inflation).\n• Customer deliveries (semi-variable): Fixed depot cost $60,000 (+5% inflation) + variable fuel cost $35 per delivery (fuel inflating by 12%). Forecast deliveries: Basic 600, Sport 400.",
+      "requirements": [
+        {
+          "label": "(a)",
+          "text": "Prepare the Activity-Based Budget for machine set-ups, quality control inspections, and customer deliveries for 20X6, clearly showing budgeted production volumes and driver quantities. (12 marks)",
+          "marks": 12,
+          "tool": "spreadsheet"
+        },
+        {
+          "label": "(b)",
+          "text": "Explain the benefits and challenges Quality Tyre Co will face in moving from traditional incremental budgeting to Activity-Based Budgeting (ABB). (8 marks)",
+          "marks": 8,
+          "tool": "word"
+        }
+      ],
+      "markingScheme": [
+        {
+          "label": "(a) Production volume: Basic = 48,000 + 4,000 − 3,000 = 49,000; Sport = 24,000 + 2,000 − 2,500 = 23,500",
+          "marks": 3
+        },
+        {
+          "label": "(a) Batches / Set-ups: Basic 98 + Sport 117.5 -> 118 batches (216 total) × $441 = $95,256",
+          "marks": 3
+        },
+        {
+          "label": "(a) QC Inspections: (49,000 + 23,500) / 50 = 1,450 inspections × $18.90 = $27,405",
+          "marks": 3
+        },
+        {
+          "label": "(a) Deliveries: Fixed $60,000×1.05 ($63,000) + Variable 1,000 × ($35×1.12 = $39.20) = $102,200 total",
+          "marks": 3
+        },
+        {
+          "label": "(b) ABB benefits (accurate overhead planning, idle capacity visibility, cost-driver accountability) & challenges applied to Quality Tyre Co",
+          "marks": 8
+        }
+      ],
+      "modelAnswer": "(a) Activity-Based Budget Workings (20X6):\n1. Production Volumes = Sales + Closing Inv − Opening Inv:\n   • Basic = 48,000 + 4,000 − 3,000 = 49,000 tyres\n   • Sport = 24,000 + 2,000 − 2,500 = 23,500 tyres\n2. Machine Set-ups (1 per batch):\n   • Basic = 49,000 / 500 = 98 batches\n   • Sport = 23,500 / 200 = 117.5 -> 118 batches (whole batches needed) => Total = 216 set-ups (or 215.5 if exact)\n   • 20X6 Rate = $420 × 1.05 = $441.00/set-up => Cost = 216 × $441 = $95,256\n3. Quality Control (every 50th tyre):\n   • Total production = 72,500 tyres => 72,500 / 50 = 1,450 inspections\n   • 20X6 Rate = $18 × 1.05 = $18.90/inspection => Cost = 1,450 × $18.90 = $27,405\n4. Customer Deliveries (1,000 deliveries):\n   • Fixed element = $60,000 × 1.05 = $63,000\n   • Variable fuel = 1,000 × ($35 × 1.12) = 1,000 × $39.20 = $39,200\n   • Total Delivery Budget = $102,200\n   • Total Budgeted Overheads across these activities = $224,861\n\n(b) Evaluation of ABB for Quality Tyre Co:\nBenefits: Links overhead budgets directly to production batch sizes (Sport uses smaller 200-tyre batches, driving disproportionate set-ups), reveals bottleneck/idle inspection capacity, and separates fuel inflation from fixed depot costs.\nChallenges: Time-consuming data collection across many drivers, difficulty assigning fixed depot costs strictly to activities, and risk of short-term resistance from managers accustomed to incremental budgets.",
+      "keyAnswerTip": "Map the ABB flow cleanly in your spreadsheet: Sales -> Production -> Batches/Drivers -> Inflated Driver Rates -> Activity Budget.",
+      "examinerComment": "March/June 2025 Examiner Report noted errors when students skipped the opening/closing inventory adjustment before computing batch drivers."
+    },
+    {
+      "id": "pm-2025-ac-co",
+      "section": "C",
+      "sitting": "Pre-September/December 2025 Official Pre-Mock",
+      "title": "AUTO CLINIC CO (AC CO)",
+      "topicId": "perf-measurement",
+      "topicTitle": "Performance Measurement & Control",
+      "totalMarks": 20,
+      "scenario": "Auto Clinic Co (AC Co) is an authorised electric vehicle (EV) battery service centre operating in Essland. It provides two service lines:\n• Warranty Services (WS): fixed fee of $280 per job paid by the EV manufacturer.\n• Out-of-Warranty Services (OWS): priced autonomously by AC Co at $360 per job (comparable to regional competitors).\n\nPerformance Data (20X5):\nMetric                              | AC Co    | Industry Benchmark\nRepeat customer rate (OWS)          | 58%      | 76%\nAverage customer waiting time       | 95 mins  | 45 mins\nFirst-time technical fix rate       | 97%      | 91%\nBay utilisation                     | 88%      | 78%\nComplimentary car wash & lounge     | None     | Included\nOperating profit margin             | 19.5%    | 17.0%\n\nCustomers praise AC Co's battery engineers for technical accuracy, but online reviews complain about uncomfortable waiting rooms and long delays.",
+      "requirements": [
+        {
+          "label": "(a)",
+          "text": "Explain how the four service characteristics (intangibility, inseparability, heterogeneity, and perishability) apply to AC Co’s EV servicing operations. (8 marks)",
+          "marks": 8,
+          "tool": "word"
+        },
+        {
+          "label": "(b)",
+          "text": "Evaluate AC Co’s performance using the six dimensions of Fitzgerald and Moon’s Building Block Model (Financial, Competitiveness, Quality, Flexibility, Resource Utilisation, Innovation). (12 marks)",
+          "marks": 12,
+          "tool": "word"
+        }
+      ],
+      "markingScheme": [
+        {
+          "label": "(a) All 4 service characteristics explained & specifically applied to AC Co (2 marks each)",
+          "marks": 8
+        },
+        {
+          "label": "(b) Assessment across all 6 Building Block dimensions (2 results + 4 determinants) using scenario metrics",
+          "marks": 12
+        }
+      ],
+      "modelAnswer": "(a) Service Characteristics at AC Co:\n1. Intangibility: Customers cannot inspect high-voltage EV battery diagnostics directly. Because core repair quality is intangible, customers judge AC Co via tangible cues—currently poor (no lounge comforts or car wash).\n2. Inseparability (Simultaneity): Servicing occurs simultaneously with the customer waiting at the centre. Poor waiting-room experience and 95-minute delays directly degrade perceived service even when engineering is superb.\n3. Heterogeneity: Technical quality depends on individual engineers; although AC Co achieves a 97% first-time fix rate, non-standardised customer check-in creates uneven experiences.\n4. Perishability: Unused service bay hours cannot be stored for peak days, making scheduling and appointment flexibility crucial.\n\n(b) Building Block Model Evaluation:\n• Results:\n  1. Financial: Operating profit margin is strong at 19.5% vs 17.0% benchmark, aided by skipping complimentary perks and high bay occupancy.\n  2. Competitiveness: Repeat OWS rate is weak (58% vs 76%), signalling eroding market share once warranties expire.\n• Determinants:\n  3. Quality: Technical quality is industry-leading (97% first-time fix vs 91%), but service quality (45 min target vs 95 min actual wait, no amenities) is failing.\n  4. Resource Utilisation: Very high bay utilisation (88% vs 78%) boosts short-term margin but leaves zero buffer, directly causing the 95-minute queues.\n  5. Flexibility & 6. Innovation: Limited scheduling slack hurts appointment flexibility, and failing to match competitor complimentary car wash/digital wait-time updates shows lagging customer-experience innovation.",
+      "keyAnswerTip": "In Fitzgerald & Moon questions, always separate the 2 Results (Financial, Competitiveness) from the 4 Determinants (Quality, Flexibility, Resource Utilisation, Innovation) and link cause-and-effect (88% bay utilisation -> queues -> low 58% repeat rate).",
+      "examinerComment": "Pre-mock debrief highlighted that students must connect high bay utilisation to customer queue times rather than praising 88% in isolation."
+    },
+    {
+      "id": "pm-2026-gnosh",
+      "section": "C",
+      "sitting": "March/June 2026 Published Exam",
+      "title": "GNOSH CO",
+      "topicId": "perf-measurement",
+      "topicTitle": "Performance Measurement & Control",
+      "totalMarks": 20,
+      "scenario": "Gnosh Co operates a chain of artisan fast-casual kitchens offering seasonal dine-in and app-delivery meals. Following expansion from 8 to 12 outlets, the board has introduced Fitzgerald and Moon's Building Block Model to align outlet managers' bonuses with long-term brand quality.\n\nSelected Outlet Performance Data (20X6 vs 20X5):\n• Revenue: $9.6m (20X6) vs $7.2m (20X5)\n• Operating profit: $864,000 (20X6) vs $792,000 (20X5)\n• Order accuracy (app delivery): 89% vs 96% target\n• Average kitchen prep time: 19 mins vs 14 mins\n• New seasonal menu items launched: 6 vs 2\n• Chef staff turnover: 34% vs 18%\n\nOutlet managers currently receive bonuses solely for hitting quarterly revenue growth targets.",
+      "requirements": [
+        {
+          "label": "(a)",
+          "text": "Evaluate Gnosh Co’s 20X6 performance across the Dimensions of Fitzgerald and Moon’s Building Block Model, incorporating relevant calculations. (12 marks)",
+          "marks": 12,
+          "tool": "both"
+        },
+        {
+          "label": "(b)",
+          "text": "Advise Gnosh Co on how Standards and Rewards under the Building Block Model should be redesigned for outlet managers. (8 marks)",
+          "marks": 8,
+          "tool": "word"
+        }
+      ],
+      "markingScheme": [
+        {
+          "label": "(a) Financial calculations (revenue +33.3%, profit +9.1%, margin fell 11.0% -> 9.0%) + 6 dimensions analysis",
+          "marks": 12
+        },
+        {
+          "label": "(b) Standards (Ownership, Achievability, Equity) & Rewards (Clarity, Motivation, Controllability) applied to Gnosh Co",
+          "marks": 8
+        }
+      ],
+      "modelAnswer": "(a) Financial & Operational Performance (Building Block Dimensions):\n• Financial: Revenue grew 33.3% ($7.2m to $9.6m across 50% more outlets -> revenue per outlet actually FELL from $900k to $800k, −11.1%). Operating profit margin dropped from 11.0% ($792k/$7.2m) to 9.0% ($864k/$9.6m).\n• Competitiveness: Falling revenue per outlet suggests weaker repeat trade despite store expansion.\n• Quality & Flexibility: Order accuracy fell to 89% (below 96% target) and prep time rose 35.7% (14 to 19 mins), likely caused by launching 6 new menu items (Innovation) without adequate kitchen capacity or training.\n• Resource Utilisation: High chef turnover (34% vs 18%) wastes training and undermines kitchen speed.\n\n(b) Redesigning Standards & Rewards:\n• Standards: Must be Owned (involve outlet chefs when setting the 14-min prep target), Achievable (realistic stretch during menu launches), and Equitable (adjust targets for older vs newly opened outlets).\n• Rewards: Move away from pure revenue bonuses; link rewards to Controllable metrics (order accuracy, controllable kitchen margin, chef retention) with Clarity and Motivation.",
+      "keyAnswerTip": "When outlet counts change (8 -> 12 stores), ALWAYS compute per-outlet revenue ($900k -> $800k) to spot hidden underlying decline.",
+      "examinerComment": "Strong responses highlighted the trade-off between excessive menu innovation (6 items) and operational quality (accuracy & prep time)."
+    },
+    {
+      "id": "pm-2025-freya",
+      "section": "B",
+      "sitting": "2025 Official Pre-Mock Case",
+      "title": "FREYA CO (THROUGHPUT ACCOUNTING)",
+      "topicId": "specialist-cost",
+      "topicTitle": "Specialist Cost & Management Accounting Techniques",
+      "totalMarks": 10,
+      "scenario": "Freya Co manufactures two custom automotive wiring harnesses (Alpha and Beta) in a mature, competitive market. Workforce is on guaranteed salaried contracts. Machine Assembly is the bottleneck process with 4,000 hours available per period. Total Factory Costs (excluding materials) = $360,000 per period.\n\nProduct Data:\nMetric              | Alpha  | Beta\nSelling price       | $120   | $165\nDirect material     | $48    | $69\nDirect labour       | $20    | $24\nBottleneck hours    | 0.8 hr | 1.2 hrs\nMax weekly demand   | 3,500  | 2,000",
+      "requirements": [
+        {
+          "label": "(a)",
+          "text": "Calculate the Throughput Accounting Ratio (TPAR) for Alpha and Beta and determine the optimal production plan maximising throughput profit. (6 marks)",
+          "marks": 6,
+          "tool": "spreadsheet"
+        },
+        {
+          "label": "(b)",
+          "text": "Explain TWO ways Freya Co can elevate the bottleneck constraint and improve Alpha’s and Beta’s TPAR. (4 marks)",
+          "marks": 4,
+          "tool": "word"
+        }
+      ],
+      "markingScheme": [
+        {
+          "label": "(a) Throughput/unit: Alpha $72, Beta $96; Return/hr: Alpha $90/hr, Beta $80/hr; Factory cost/hr = $360,000/4,000 = $90/hr",
+          "marks": 3
+        },
+        {
+          "label": "(a) TPAR: Alpha = 1.00, Beta = 0.89; Optimal plan: 3,500 Alpha (2,800 hrs) + 1,000 Beta (1,200 hrs); Throughput = $348,000 -> Net Loss $(12,000)",
+          "marks": 3
+        },
+        {
+          "label": "(b) Elevate bottleneck (outsource sub-assembly, preventive maintenance, reduce setup time, shift work) & cut materials/operating cost",
+          "marks": 4
+        }
+      ],
+      "modelAnswer": "(a) Throughput & TPAR:\n• Throughput/unit = SP − Material: Alpha = $120 − $48 = $72; Beta = $165 − $69 = $96\n• Return/Bottleneck Hour: Alpha = $72 / 0.8 = $90/hr; Beta = $96 / 1.2 = $80/hr (Rank: Alpha 1st, Beta 2nd)\n• Cost/Bottleneck Hour = $360,000 / 4,000 = $90/hr\n• TPAR: Alpha = $90 / $90 = 1.00; Beta = $80 / $90 = 0.89 (< 1!)\n• Optimal Plan: Produce max 3,500 Alpha (2,800 hrs) -> remaining 1,200 hrs makes 1,000 Beta.\n• Total Throughput = (3,500 × $72) + (1,000 × $96) = $252,000 + $96,000 = $348,000.\n• Less Factory Costs $360,000 = Net Loss of $(12,000).\n\n(b) Actions: Reduce setup downtime or outsource part of Machine Assembly to expand bottleneck capacity past 4,000 hrs; renegotiate copper wiring material discounts to lift throughput/unit; or cut non-bottleneck operating expenses.",
+      "keyAnswerTip": "Never deduct direct labour when calculating Throughput — only deduct Direct Materials!",
+      "examinerComment": "Frequently tested in Section B & Pre-Mocks: spotting that Beta has TPAR < 1 and incurs a loss unless factory costs fall or bottleneck efficiency rises."
+    },
+    {
+      "id": "pm-2025-jay",
+      "section": "C",
+      "sitting": "2025 Official Pre-Mock Case",
+      "title": "JAY CO (DIVISIONAL PERFORMANCE & TRANSFER PRICING)",
+      "topicId": "perf-measurement",
+      "topicTitle": "Performance Measurement & Control",
+      "totalMarks": 20,
+      "scenario": "Jay Co has two investment centres: Division C (Components) and Division A (Assembly). Division C makes Component X with variable cost $28/unit and sells externally at $45/unit (current external demand 18,000 units vs capacity 25,000 units).\n\nDivision A requires 10,000 units of Component X per year. It currently buys externally at $43/unit. Division C is insisting on charging $45/unit internally (external list price), which Division A refuses.\n\nDivision A currently has Controllable Profit $640,000 on Capital Employed $4,000,000. It is evaluating a new automation investment of $800,000 yielding $112,000 annual profit. Jay Co's imputed cost of capital is 12%.",
+      "requirements": [
+        {
+          "label": "(a)",
+          "text": "Calculate the current ROI and Residual Income (RI) of Division A, and evaluate whether Division A’s manager would accept the $800,000 project under ROI vs RI. (8 marks)",
+          "marks": 8,
+          "tool": "spreadsheet"
+        },
+        {
+          "label": "(b)",
+          "text": "Determine the goal-congruent transfer pricing range for the 10,000 units of Component X and recommend a dual or negotiated transfer price that benefits both divisions and Jay Co as a whole. (12 marks)",
+          "marks": 12,
+          "tool": "both"
+        }
+      ],
+      "markingScheme": [
+        {
+          "label": "(a) Current ROI = 16.0%, RI = $160,000; Project ROI = 14.0% (<16% rejected under ROI!), Project RI = +$16,000 (accepted under RI!)",
+          "marks": 8
+        },
+        {
+          "label": "(b) Spare capacity = 7,000 units (MC = $28); Displaced external sales = 3,000 units (MC $28 + Lost cont $17 = $45)",
+          "marks": 6
+        },
+        {
+          "label": "(b) Weighted min TP = (7,000×$28 + 3,000×$45)/10,000 = $33.10; Max TP = $43.00 -> Group saves $99,000/yr vs buying at $43",
+          "marks": 6
+        }
+      ],
+      "modelAnswer": "(a) ROI vs RI at Division A:\n• Current ROI = $640,000 / $4,000,000 = 16.0%\n• New Project ROI = $112,000 / $800,000 = 14.0% (> 12% cost of capital, so good for Jay Co!)\n• Combined ROI = $752,000 / $4,800,000 = 15.67% (< 16.0%, so manager rejects under ROI — dysfunctional behaviour!)\n• Current RI = $640,000 − (12% × $4,000,000) = $160,000.\n• Combined RI = $752,000 − (12% × $4,800,000) = $176,000 (+$16,000 incremental RI -> accepted under RI!).\n\n(b) Transfer Pricing for 10,000 Units:\n• Division C spare capacity = 25,000 − 18,000 = 7,000 units (min TP = $28 variable cost).\n• Remaining 3,000 units displace external sales at $45 (min TP = $28 + ($45 − $28) = $45).\n• Average Minimum Transfer Price = (7,000 × $28 + 3,000 × $45) / 10,000 = $331,000 / 10,000 = $33.10/unit.\n• Maximum Transfer Price = $43.00/unit (Division A's external buy price).\n• Group Benefit = ($43.00 − $33.10) × 10,000 = $99,000 annual profit increase!\n• Recommendation: Negotiate a two-part tariff or transfer price between $33.11 and $42.99 (e.g., $38/unit splits the $99,000 gain almost evenly: Division C gains $49,000, Division A saves $50,000).",
+      "keyAnswerTip": "Whenever internal demand exceeds spare capacity, split the transfer into TWO tranches: spare capacity units at Marginal Cost and displaced units at Market Price.",
+      "examinerComment": "Classic ACCA PM pre-mock trap: calculating a single $28 minimum price without noticing only 7,000 units of spare capacity exist!"
+    }
+  ]
+}

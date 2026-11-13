@@ -1,0 +1,1319 @@
+[
+  {
+    "id": "mock-01",
+    "number": 1,
+    "title": "Mock 01 · Pre-Mock Apex I (Kaylene & Auto Clinic)",
+    "tier": "Max Challenge · Pre-Mock",
+    "focus": "Sec B: SHOE CO, SIP CO, The Hi Life Co · Sec C: KAYLENE CO & AUTO CLINIC CO (AC CO)",
+    "totalMarks": 100,
+    "areaMarks": {
+      "A": 6,
+      "B": 16,
+      "C": 36,
+      "D": 16,
+      "E": 26
+    },
+    "formatMix": {
+      "numeric": 8,
+      "matrix": 5,
+      "multi": 5,
+      "single": 12
+    },
+    "subtopicCount": 16,
+    "subtopicsCovered": [
+      "mis",
+      "info-control",
+      "big-data",
+      "throughput",
+      "lifecycle",
+      "environmental",
+      "pricing",
+      "limiting-factors",
+      "risk-uncertainty",
+      "quant-tech",
+      "mix-yield",
+      "private-public-nfp",
+      "divisional-tp",
+      "nfp-public",
+      "relevant-cost",
+      "std-costing"
+    ],
+    "secAIds": [
+      "secA-11",
+      "secA-18",
+      "spec-A-1",
+      "secA-55",
+      "secA-52",
+      "secA-62",
+      "spec-A-12",
+      "secA-97",
+      "secA-127",
+      "secA-155",
+      "secA-159",
+      "secA-179",
+      "secA-211",
+      "secA-216",
+      "secA-220"
+    ],
+    "secBIds": [
+      "secB-240",
+      "secB-244",
+      "spec-B-3"
+    ],
+    "secCIds": [
+      "pm-2025-kaylene",
+      "pm-2025-ac-co"
+    ]
+  },
+  {
+    "id": "mock-02",
+    "number": 2,
+    "title": "Mock 02 · Pre-Mock Apex II (Spike & Jay Co)",
+    "tier": "Max Challenge · Pre-Mock",
+    "focus": "Sec B: CHEMICAL FREE CLEAN CO, Chair Co, FORT CO · Sec C: SPIKE CO & JAY CO (DIVISIONAL PERFORMANCE & TRANSFER PRICING)",
+    "totalMarks": 100,
+    "areaMarks": {
+      "A": 6,
+      "B": 16,
+      "C": 16,
+      "D": 36,
+      "E": 26
+    },
+    "formatMix": {
+      "numeric": 10,
+      "matrix": 2,
+      "multi": 6,
+      "single": 12
+    },
+    "subtopicCount": 14,
+    "subtopicsCovered": [
+      "mis",
+      "info-control",
+      "big-data",
+      "throughput",
+      "target-costing",
+      "environmental",
+      "cvp",
+      "relevant-cost",
+      "risk-uncertainty",
+      "quant-tech",
+      "plan-op",
+      "private-public-nfp",
+      "divisional-tp",
+      "sales-mix"
+    ],
+    "secAIds": [
+      "secA-1",
+      "spec-A-8",
+      "secA-24",
+      "secA-56",
+      "secA-45",
+      "secA-66",
+      "secA-80",
+      "secA-74",
+      "secA-129",
+      "secA-160",
+      "secA-158",
+      "secA-189",
+      "secA-210",
+      "secA-199",
+      "secA-218"
+    ],
+    "secBIds": [
+      "secB-238",
+      "spec-B-2",
+      "secB-261"
+    ],
+    "secCIds": [
+      "pm-2026-spike",
+      "pm-2025-jay"
+    ]
+  },
+  {
+    "id": "mock-03",
+    "number": 3,
+    "title": "Mock 03 · Pre-Mock Apex III (Bamburgh & Gnosh)",
+    "tier": "Max Challenge · Pre-Mock",
+    "focus": "Sec B: Glam Co, JEWEL CO, GRAYSHOTT CO · Sec C: BAMBURGH CO & GNOSH CO",
+    "totalMarks": 100,
+    "areaMarks": {
+      "A": 6,
+      "B": 16,
+      "C": 36,
+      "D": 16,
+      "E": 26
+    },
+    "formatMix": {
+      "numeric": 8,
+      "matrix": 1,
+      "multi": 3,
+      "single": 18
+    },
+    "subtopicCount": 16,
+    "subtopicsCovered": [
+      "mis",
+      "info-control",
+      "big-data",
+      "abc",
+      "environmental",
+      "cvp",
+      "pricing",
+      "make-or-buy",
+      "mix-yield",
+      "quant-tech",
+      "plan-op",
+      "private-public-nfp",
+      "nfp-public",
+      "divisional-tp",
+      "relevant-cost",
+      "std-costing"
+    ],
+    "secAIds": [
+      "secA-8",
+      "secA-22",
+      "secA-27",
+      "secA-35",
+      "secA-41",
+      "secA-67",
+      "spec-A-2",
+      "secA-108",
+      "secA-116",
+      "secA-174",
+      "secA-156",
+      "secA-190",
+      "secA-209",
+      "spec-A-14",
+      "secA-212"
+    ],
+    "secBIds": [
+      "spec-B-1",
+      "secB-250",
+      "secB-262"
+    ],
+    "secCIds": [
+      "pm-2026-bamburgh",
+      "pm-2026-gnosh"
+    ]
+  },
+  {
+    "id": "mock-04",
+    "number": 4,
+    "title": "Mock 04 · Variance & Capacity TP (Quality Tyre & Portable Garage)",
+    "tier": "Max Challenge · Pre-Mock",
+    "focus": "Sec B: MIDHURST CO, SKULPT CO, OBC · Sec C: QUALITY TYRE CO & THE PORTABLE GARAGE COMPANY",
+    "totalMarks": 100,
+    "areaMarks": {
+      "A": 6,
+      "B": 16,
+      "C": 16,
+      "D": 36,
+      "E": 26
+    },
+    "formatMix": {
+      "numeric": 6,
+      "matrix": 2,
+      "multi": 3,
+      "single": 19
+    },
+    "subtopicCount": 17,
+    "subtopicsCovered": [
+      "mis",
+      "info-control",
+      "big-data",
+      "environmental",
+      "abc",
+      "risk-uncertainty",
+      "make-or-buy",
+      "cvp",
+      "mix-yield",
+      "quant-tech",
+      "sales-mix",
+      "divisional-tp",
+      "private-public-nfp",
+      "external-consid",
+      "lifecycle",
+      "pricing",
+      "std-costing"
+    ],
+    "secAIds": [
+      "secA-14",
+      "secA-16",
+      "secA-23",
+      "secA-64",
+      "secA-33",
+      "secA-68",
+      "secA-123",
+      "spec-A-3",
+      "secA-81",
+      "secA-178",
+      "secA-150",
+      "secA-187",
+      "secA-218",
+      "secA-204",
+      "secA-225"
+    ],
+    "secBIds": [
+      "secB-230",
+      "secB-251",
+      "secB-260"
+    ],
+    "secCIds": [
+      "pm-2025-quality-tyres",
+      "secC-294"
+    ]
+  },
+  {
+    "id": "mock-05",
+    "number": 5,
+    "title": "Mock 05 · LP Shadow Prices & NFP 3Es (Bellahouston & Tonford)",
+    "tier": "Max Challenge",
+    "focus": "Sec B: SWEET TREATS BAKERY, HOME ELECTRICS CO, ROMEO CO · Sec C: BELLAHOUSTON CO & TONFORD SCHOOL",
+    "totalMarks": 100,
+    "areaMarks": {
+      "A": 6,
+      "B": 16,
+      "C": 36,
+      "D": 16,
+      "E": 26
+    },
+    "formatMix": {
+      "numeric": 5,
+      "matrix": 3,
+      "multi": 2,
+      "single": 20
+    },
+    "subtopicCount": 15,
+    "subtopicsCovered": [
+      "mis",
+      "info-control",
+      "big-data",
+      "abc",
+      "throughput",
+      "cvp",
+      "risk-uncertainty",
+      "relevant-cost",
+      "sales-mix",
+      "quant-tech",
+      "budget-systems",
+      "divisional-tp",
+      "external-consid",
+      "private-public-nfp",
+      "std-costing"
+    ],
+    "secAIds": [
+      "secA-3",
+      "secA-17",
+      "secA-25",
+      "secA-39",
+      "secA-31",
+      "secA-55",
+      "secA-91",
+      "secA-124",
+      "secA-75",
+      "secA-184",
+      "secA-149",
+      "secA-133",
+      "secA-212",
+      "secA-229",
+      "secA-211"
+    ],
+    "secBIds": [
+      "secB-241",
+      "secB-249",
+      "secB-263"
+    ],
+    "secCIds": [
+      "secC-264",
+      "secC-304"
+    ]
+  },
+  {
+    "id": "mock-06",
+    "number": 6,
+    "title": "Mock 06 · Regression Curves & Group TP (Venhosp & Rotech)",
+    "tier": "Max Challenge",
+    "focus": "Sec B: RAASAY, HORNGREN CO, BOKCO · Sec C: VENHOSP & ROTECH",
+    "totalMarks": 100,
+    "areaMarks": {
+      "A": 6,
+      "B": 16,
+      "C": 16,
+      "D": 36,
+      "E": 26
+    },
+    "formatMix": {
+      "numeric": 7,
+      "matrix": 3,
+      "multi": 2,
+      "single": 18
+    },
+    "subtopicCount": 17,
+    "subtopicsCovered": [
+      "mis",
+      "info-control",
+      "big-data",
+      "target-costing",
+      "lifecycle",
+      "throughput",
+      "cvp",
+      "make-or-buy",
+      "risk-uncertainty",
+      "quant-tech",
+      "budget-systems",
+      "divisional-tp",
+      "external-consid",
+      "private-public-nfp",
+      "abc",
+      "relevant-cost",
+      "std-costing"
+    ],
+    "secAIds": [
+      "secA-15",
+      "secA-19",
+      "secA-26",
+      "secA-46",
+      "secA-53",
+      "secA-56",
+      "secA-92",
+      "secA-115",
+      "secA-125",
+      "secA-154",
+      "secA-148",
+      "secA-135",
+      "secA-214",
+      "secA-228",
+      "secA-210"
+    ],
+    "secBIds": [
+      "secB-234",
+      "secB-255",
+      "secB-257"
+    ],
+    "secCIds": [
+      "secC-281",
+      "secC-296"
+    ]
+  },
+  {
+    "id": "mock-07",
+    "number": 7,
+    "title": "Mock 07 · MR=MC Demand & Building Blocks (TR Co & Lemic Air)",
+    "tier": "Very Hard",
+    "focus": "Sec B: HELOT CO, RUNF, CORFE CO · Sec C: TR CO & LEMIC AIR CO",
+    "totalMarks": 100,
+    "areaMarks": {
+      "A": 6,
+      "B": 16,
+      "C": 36,
+      "D": 16,
+      "E": 26
+    },
+    "formatMix": {
+      "numeric": 4,
+      "matrix": 3,
+      "multi": 2,
+      "single": 21
+    },
+    "subtopicCount": 16,
+    "subtopicsCovered": [
+      "mis",
+      "info-control",
+      "big-data",
+      "lifecycle",
+      "target-costing",
+      "abc",
+      "limiting-factors",
+      "pricing",
+      "cvp",
+      "mix-yield",
+      "std-costing",
+      "quant-tech",
+      "divisional-tp",
+      "external-consid",
+      "private-public-nfp",
+      "relevant-cost"
+    ],
+    "secAIds": [
+      "secA-2",
+      "secA-20",
+      "secA-28",
+      "secA-49",
+      "secA-44",
+      "secA-35",
+      "secA-93",
+      "secA-111",
+      "secA-84",
+      "secA-176",
+      "secA-165",
+      "secA-161",
+      "secA-215",
+      "secA-226",
+      "secA-209"
+    ],
+    "secBIds": [
+      "secB-237",
+      "secB-252",
+      "secB-258"
+    ],
+    "secCIds": [
+      "secC-274",
+      "secC-301"
+    ]
+  },
+  {
+    "id": "mock-08",
+    "number": 8,
+    "title": "Mock 08 · Sales Mix/Qty & Scorecard (Clear Co & Medcomp)",
+    "tier": "Very Hard",
+    "focus": "Sec B: DARASK CO, CARA CO, LRA · Sec C: CLEAR CO & MEDCOMP",
+    "totalMarks": 100,
+    "areaMarks": {
+      "A": 6,
+      "B": 16,
+      "C": 16,
+      "D": 36,
+      "E": 26
+    },
+    "formatMix": {
+      "numeric": 2,
+      "matrix": 3,
+      "multi": 3,
+      "single": 22
+    },
+    "subtopicCount": 17,
+    "subtopicsCovered": [
+      "mis",
+      "info-control",
+      "big-data",
+      "target-costing",
+      "environmental",
+      "abc",
+      "risk-uncertainty",
+      "pricing",
+      "cvp",
+      "quant-tech",
+      "budget-systems",
+      "mix-yield",
+      "nfp-public",
+      "divisional-tp",
+      "lifecycle",
+      "relevant-cost",
+      "std-costing"
+    ],
+    "secAIds": [
+      "secA-4",
+      "secA-21",
+      "spec-A-1",
+      "spec-A-11",
+      "secA-69",
+      "secA-39",
+      "spec-A-6",
+      "secA-106",
+      "secA-85",
+      "secA-162",
+      "secA-146",
+      "secA-171",
+      "secA-220",
+      "secA-224",
+      "secA-214"
+    ],
+    "secBIds": [
+      "secB-236",
+      "secB-248",
+      "secB-256"
+    ],
+    "secCIds": [
+      "secC-284",
+      "secC-299"
+    ]
+  },
+  {
+    "id": "mock-09",
+    "number": 9,
+    "title": "Mock 09 · Scarce Capacity & RI Target TP (Cut & Stitch + CTD)",
+    "tier": "Very Hard",
+    "focus": "Sec B: BRICK BY BRICK, HARE EVENTS, BELLAMY CO · Sec C: CUT AND STITCH & CTD",
+    "totalMarks": 100,
+    "areaMarks": {
+      "A": 6,
+      "B": 16,
+      "C": 36,
+      "D": 16,
+      "E": 26
+    },
+    "formatMix": {
+      "numeric": 4,
+      "matrix": 4,
+      "multi": 2,
+      "single": 20
+    },
+    "subtopicCount": 17,
+    "subtopicsCovered": [
+      "mis",
+      "info-control",
+      "big-data",
+      "abc",
+      "lifecycle",
+      "environmental",
+      "risk-uncertainty",
+      "limiting-factors",
+      "cvp",
+      "mix-yield",
+      "budget-systems",
+      "plan-op",
+      "private-public-nfp",
+      "nfp-public",
+      "divisional-tp",
+      "relevant-cost",
+      "std-costing"
+    ],
+    "secAIds": [
+      "secA-5",
+      "secA-18",
+      "secA-24",
+      "secA-32",
+      "secA-51",
+      "secA-64",
+      "secA-128",
+      "secA-95",
+      "secA-79",
+      "spec-A-13",
+      "secA-144",
+      "secA-188",
+      "spec-A-7",
+      "secA-223",
+      "secA-215"
+    ],
+    "secBIds": [
+      "secB-242",
+      "secB-245",
+      "secB-259"
+    ],
+    "secCIds": [
+      "secC-267",
+      "secC-295"
+    ]
+  },
+  {
+    "id": "mock-10",
+    "number": 10,
+    "title": "Mock 10 · Joint Costs & Market Share Variance (Daisy & Medical Temp)",
+    "tier": "Very Hard",
+    "focus": "Sec B: ABKABER PLC, RACQUETZ CO, The Hi Life Co · Sec C: DAISY CO & MEDICAL TEMP CO",
+    "totalMarks": 100,
+    "areaMarks": {
+      "A": 6,
+      "B": 16,
+      "C": 36,
+      "D": 36,
+      "E": 6
+    },
+    "formatMix": {
+      "numeric": 5,
+      "matrix": 3,
+      "multi": 3,
+      "single": 19
+    },
+    "subtopicCount": 16,
+    "subtopicsCovered": [
+      "mis",
+      "info-control",
+      "big-data",
+      "abc",
+      "lifecycle",
+      "target-costing",
+      "relevant-cost",
+      "limiting-factors",
+      "risk-uncertainty",
+      "sales-mix",
+      "budget-systems",
+      "mix-yield",
+      "private-public-nfp",
+      "nfp-public",
+      "divisional-tp",
+      "std-costing"
+    ],
+    "secAIds": [
+      "secA-6",
+      "spec-A-8",
+      "secA-27",
+      "secA-34",
+      "secA-54",
+      "secA-46",
+      "secA-70",
+      "secA-98",
+      "secA-130",
+      "secA-182",
+      "secA-142",
+      "secA-172",
+      "secA-206",
+      "secA-222",
+      "secA-217"
+    ],
+    "secBIds": [
+      "secB-233",
+      "secB-246",
+      "spec-B-3"
+    ],
+    "secCIds": [
+      "secC-272",
+      "secC-283"
+    ]
+  },
+  {
+    "id": "mock-11",
+    "number": 11,
+    "title": "Mock 11 · Payoff Uncertainty & ROI Behaviour (Keytone & Sports Co)",
+    "tier": "Very Hard",
+    "focus": "Sec B: BECKLEY HILL, MYLO, FORT CO · Sec C: KEYTONE CO & SPORTS CO",
+    "totalMarks": 100,
+    "areaMarks": {
+      "A": 6,
+      "B": 16,
+      "C": 36,
+      "D": 16,
+      "E": 26
+    },
+    "formatMix": {
+      "numeric": 6,
+      "matrix": 1,
+      "multi": 1,
+      "single": 22
+    },
+    "subtopicCount": 16,
+    "subtopicsCovered": [
+      "mis",
+      "info-control",
+      "big-data",
+      "target-costing",
+      "lifecycle",
+      "limiting-factors",
+      "risk-uncertainty",
+      "pricing",
+      "sales-mix",
+      "budget-systems",
+      "mix-yield",
+      "divisional-tp",
+      "nfp-public",
+      "private-public-nfp",
+      "abc",
+      "relevant-cost"
+    ],
+    "secAIds": [
+      "secA-7",
+      "secA-22",
+      "secA-23",
+      "secA-42",
+      "secA-43",
+      "secA-49",
+      "secA-94",
+      "secA-121",
+      "secA-109",
+      "secA-183",
+      "secA-136",
+      "secA-173",
+      "secA-217",
+      "secA-221",
+      "spec-A-7"
+    ],
+    "secBIds": [
+      "secB-232",
+      "secB-254",
+      "secB-261"
+    ],
+    "secCIds": [
+      "secC-273",
+      "secC-293"
+    ]
+  },
+  {
+    "id": "mock-12",
+    "number": 12,
+    "title": "Mock 12 · Material Mix/Yield & University VFM (Vegan Co & Robinholt)",
+    "tier": "Very Hard",
+    "focus": "Sec B: YAM CO, CARDIO CO, GRAYSHOTT CO · Sec C: VEGAN CO & ROBINHOLT UNIVERSITY",
+    "totalMarks": 100,
+    "areaMarks": {
+      "A": 6,
+      "B": 16,
+      "C": 16,
+      "D": 36,
+      "E": 26
+    },
+    "formatMix": {
+      "numeric": 1,
+      "matrix": 2,
+      "multi": 0,
+      "single": 27
+    },
+    "subtopicCount": 18,
+    "subtopicsCovered": [
+      "mis",
+      "info-control",
+      "big-data",
+      "throughput",
+      "lifecycle",
+      "target-costing",
+      "limiting-factors",
+      "risk-uncertainty",
+      "pricing",
+      "sales-mix",
+      "plan-op",
+      "budget-systems",
+      "external-consid",
+      "nfp-public",
+      "private-public-nfp",
+      "abc",
+      "relevant-cost",
+      "std-costing"
+    ],
+    "secAIds": [
+      "secA-9",
+      "secA-16",
+      "secA-25",
+      "secA-58",
+      "secA-47",
+      "spec-A-11",
+      "secA-96",
+      "secA-120",
+      "secA-110",
+      "secA-185",
+      "secA-193",
+      "secA-145",
+      "secA-225",
+      "secA-219",
+      "secA-206"
+    ],
+    "secBIds": [
+      "secB-243",
+      "secB-247",
+      "secB-262"
+    ],
+    "secCIds": [
+      "secC-288",
+      "secC-303"
+    ]
+  },
+  {
+    "id": "mock-13",
+    "number": 13,
+    "title": "Mock 13 · Relevant Cashflow & Autonomy TP (Bits & Pieces + Mobe)",
+    "tier": "Very Hard",
+    "focus": "Sec B: DUFF CO, GAM CO, OBC · Sec C: BITS AND PIECES & MOBE",
+    "totalMarks": 100,
+    "areaMarks": {
+      "A": 6,
+      "B": 16,
+      "C": 36,
+      "D": 16,
+      "E": 26
+    },
+    "formatMix": {
+      "numeric": 3,
+      "matrix": 0,
+      "multi": 0,
+      "single": 27
+    },
+    "subtopicCount": 14,
+    "subtopicsCovered": [
+      "mis",
+      "info-control",
+      "big-data",
+      "abc",
+      "target-costing",
+      "make-or-buy",
+      "limiting-factors",
+      "quant-tech",
+      "budget-systems",
+      "plan-op",
+      "private-public-nfp",
+      "divisional-tp",
+      "relevant-cost",
+      "std-costing"
+    ],
+    "secAIds": [
+      "secA-10",
+      "secA-17",
+      "secA-26",
+      "secA-30",
+      "secA-38",
+      "secA-42",
+      "secA-113",
+      "secA-119",
+      "secA-100",
+      "secA-151",
+      "secA-140",
+      "secA-194",
+      "secA-208",
+      "secA-201",
+      "secA-213"
+    ],
+    "secBIds": [
+      "secB-231",
+      "secB-253",
+      "secB-260"
+    ],
+    "secCIds": [
+      "secC-268",
+      "secC-305"
+    ]
+  },
+  {
+    "id": "mock-14",
+    "number": 14,
+    "title": "Mock 14 · Ex-Post Planning/Op & Two-Division TP (Kappa & Caroline)",
+    "tier": "Very Hard",
+    "focus": "Sec B: GADGET CO, SIP CO, ROMEO CO · Sec C: KAPPA CO & CAROLINE CO",
+    "totalMarks": 100,
+    "areaMarks": {
+      "A": 6,
+      "B": 16,
+      "C": 16,
+      "D": 36,
+      "E": 26
+    },
+    "formatMix": {
+      "numeric": 3,
+      "matrix": 1,
+      "multi": 2,
+      "single": 24
+    },
+    "subtopicCount": 15,
+    "subtopicsCovered": [
+      "mis",
+      "info-control",
+      "big-data",
+      "abc",
+      "environmental",
+      "throughput",
+      "make-or-buy",
+      "risk-uncertainty",
+      "quant-tech",
+      "std-costing",
+      "budget-systems",
+      "divisional-tp",
+      "private-public-nfp",
+      "external-consid",
+      "relevant-cost"
+    ],
+    "secAIds": [
+      "secA-12",
+      "secA-19",
+      "secA-28",
+      "secA-36",
+      "spec-A-10",
+      "secA-58",
+      "secA-117",
+      "secA-118",
+      "secA-122",
+      "secA-153",
+      "spec-A-4",
+      "secA-143",
+      "secA-213",
+      "secA-200",
+      "secA-227"
+    ],
+    "secBIds": [
+      "secB-235",
+      "secB-244",
+      "secB-263"
+    ],
+    "secCIds": [
+      "secC-287",
+      "secC-302"
+    ]
+  },
+  {
+    "id": "mock-15",
+    "number": 15,
+    "title": "Mock 15 · Learning Curve 95% & Opp Cost TP (Henry Co & Division A)",
+    "tier": "Max Challenge",
+    "focus": "Sec B: VOLT CO, Chair Co, BOKCO · Sec C: HENRY COMPANY & DIVISION A",
+    "totalMarks": 100,
+    "areaMarks": {
+      "A": 6,
+      "B": 16,
+      "C": 16,
+      "D": 36,
+      "E": 26
+    },
+    "formatMix": {
+      "numeric": 2,
+      "matrix": 1,
+      "multi": 3,
+      "single": 24
+    },
+    "subtopicCount": 16,
+    "subtopicsCovered": [
+      "mis",
+      "info-control",
+      "big-data",
+      "abc",
+      "throughput",
+      "lifecycle",
+      "limiting-factors",
+      "relevant-cost",
+      "pricing",
+      "sales-mix",
+      "plan-op",
+      "budget-systems",
+      "divisional-tp",
+      "private-public-nfp",
+      "nfp-public",
+      "std-costing"
+    ],
+    "secAIds": [
+      "secA-13",
+      "secA-20",
+      "spec-A-1",
+      "secA-37",
+      "spec-A-9",
+      "secA-48",
+      "secA-101",
+      "secA-77",
+      "secA-112",
+      "secA-186",
+      "secA-192",
+      "secA-132",
+      "spec-A-15",
+      "secA-198",
+      "secA-219"
+    ],
+    "secBIds": [
+      "secB-239",
+      "spec-B-2",
+      "secB-257"
+    ],
+    "secCIds": [
+      "secC-282",
+      "secC-297"
+    ]
+  },
+  {
+    "id": "mock-16",
+    "number": 16,
+    "title": "Mock 16 · Price Elasticity & Service KPI (MKL & Flag Co)",
+    "tier": "Hard · Full Kit",
+    "focus": "Sec B: SHOE CO, JEWEL CO, CORFE CO · Sec C: MKL & FLAG CO",
+    "totalMarks": 100,
+    "areaMarks": {
+      "A": 6,
+      "B": 16,
+      "C": 36,
+      "D": 16,
+      "E": 26
+    },
+    "formatMix": {
+      "numeric": 3,
+      "matrix": 0,
+      "multi": 7,
+      "single": 20
+    },
+    "subtopicCount": 16,
+    "subtopicsCovered": [
+      "mis",
+      "info-control",
+      "big-data",
+      "abc",
+      "environmental",
+      "throughput",
+      "limiting-factors",
+      "relevant-cost",
+      "cvp",
+      "quant-tech",
+      "sales-mix",
+      "plan-op",
+      "private-public-nfp",
+      "divisional-tp",
+      "lifecycle",
+      "std-costing"
+    ],
+    "secAIds": [
+      "secA-11",
+      "secA-21",
+      "secA-24",
+      "secA-40",
+      "secA-65",
+      "secA-57",
+      "secA-103",
+      "secA-76",
+      "secA-78",
+      "secA-157",
+      "secA-181",
+      "secA-191",
+      "secA-202",
+      "secA-197",
+      "spec-A-15"
+    ],
+    "secBIds": [
+      "secB-240",
+      "secB-250",
+      "secB-258"
+    ],
+    "secCIds": [
+      "secC-271",
+      "secC-306"
+    ]
+  },
+  {
+    "id": "mock-17",
+    "number": 17,
+    "title": "Mock 17 · Rolling Budgets & ROI Bonus Traps (Static Co & Clean Feet)",
+    "tier": "Hard · Full Kit",
+    "focus": "Sec B: CHEMICAL FREE CLEAN CO, SKULPT CO, LRA · Sec C: STATIC CO & CLEAN FEET CO",
+    "totalMarks": 100,
+    "areaMarks": {
+      "A": 6,
+      "B": 16,
+      "C": 16,
+      "D": 36,
+      "E": 26
+    },
+    "formatMix": {
+      "numeric": 3,
+      "matrix": 1,
+      "multi": 8,
+      "single": 18
+    },
+    "subtopicCount": 15,
+    "subtopicsCovered": [
+      "mis",
+      "info-control",
+      "big-data",
+      "lifecycle",
+      "environmental",
+      "abc",
+      "cvp",
+      "relevant-cost",
+      "limiting-factors",
+      "mix-yield",
+      "budget-systems",
+      "private-public-nfp",
+      "nfp-public",
+      "pricing",
+      "std-costing"
+    ],
+    "secAIds": [
+      "secA-1",
+      "secA-18",
+      "secA-27",
+      "secA-48",
+      "secA-63",
+      "secA-32",
+      "secA-90",
+      "secA-72",
+      "secA-102",
+      "secA-177",
+      "secA-170",
+      "secA-134",
+      "secA-204",
+      "secA-207",
+      "secA-221"
+    ],
+    "secBIds": [
+      "secB-238",
+      "secB-251",
+      "secB-256"
+    ],
+    "secCIds": [
+      "secC-278",
+      "secC-307"
+    ]
+  },
+  {
+    "id": "mock-18",
+    "number": 18,
+    "title": "Mock 18 · Multi-Product Breakeven & External Audit (Health Nuts & Jungle Co)",
+    "tier": "Hard · Full Kit",
+    "focus": "Sec B: Glam Co, HOME ELECTRICS CO, The Hi Life Co · Sec C: HEALTH NUTS & JUNGLE CO",
+    "totalMarks": 100,
+    "areaMarks": {
+      "A": 6,
+      "B": 16,
+      "C": 36,
+      "D": 16,
+      "E": 26
+    },
+    "formatMix": {
+      "numeric": 8,
+      "matrix": 1,
+      "multi": 5,
+      "single": 16
+    },
+    "subtopicCount": 14,
+    "subtopicsCovered": [
+      "mis",
+      "info-control",
+      "big-data",
+      "environmental",
+      "abc",
+      "cvp",
+      "relevant-cost",
+      "pricing",
+      "mix-yield",
+      "std-costing",
+      "budget-systems",
+      "nfp-public",
+      "private-public-nfp",
+      "external-consid"
+    ],
+    "secAIds": [
+      "secA-8",
+      "spec-A-8",
+      "secA-23",
+      "secA-61",
+      "secA-60",
+      "secA-34",
+      "secA-83",
+      "secA-71",
+      "secA-104",
+      "secA-180",
+      "secA-169",
+      "secA-137",
+      "spec-A-14",
+      "secA-203",
+      "secA-226"
+    ],
+    "secBIds": [
+      "spec-B-1",
+      "secB-249",
+      "spec-B-3"
+    ],
+    "secCIds": [
+      "secC-265",
+      "secC-298"
+    ]
+  },
+  {
+    "id": "mock-19",
+    "number": 19,
+    "title": "Mock 19 · Flexed Budget Critique & Profit Ratios (Yumi Co & Yetgo)",
+    "tier": "Hard · Full Kit",
+    "focus": "Sec B: MIDHURST CO, HORNGREN CO, FORT CO · Sec C: YUMI CO & YETGO CO",
+    "totalMarks": 100,
+    "areaMarks": {
+      "A": 6,
+      "B": 16,
+      "C": 16,
+      "D": 36,
+      "E": 26
+    },
+    "formatMix": {
+      "numeric": 6,
+      "matrix": 1,
+      "multi": 4,
+      "single": 19
+    },
+    "subtopicCount": 16,
+    "subtopicsCovered": [
+      "mis",
+      "info-control",
+      "big-data",
+      "throughput",
+      "lifecycle",
+      "abc",
+      "cvp",
+      "limiting-factors",
+      "pricing",
+      "quant-tech",
+      "perf-analysis-budget",
+      "budget-systems",
+      "private-public-nfp",
+      "nfp-public",
+      "relevant-cost",
+      "sales-mix"
+    ],
+    "secAIds": [
+      "secA-14",
+      "secA-22",
+      "secA-25",
+      "secA-57",
+      "secA-50",
+      "secA-30",
+      "secA-86",
+      "secA-99",
+      "secA-105",
+      "secA-152",
+      "secA-195",
+      "secA-138",
+      "secA-199",
+      "secA-205",
+      "secA-222"
+    ],
+    "secBIds": [
+      "secB-230",
+      "secB-255",
+      "secB-261"
+    ],
+    "secCIds": [
+      "secC-279",
+      "secC-291"
+    ]
+  },
+  {
+    "id": "mock-20",
+    "number": 20,
+    "title": "Mock 20 · Shutdown Relevant Cost & Strategic Eval (Stay Clean & Trot Co)",
+    "tier": "Very Hard · Finale",
+    "focus": "Sec B: SWEET TREATS BAKERY, RUNF, GRAYSHOTT CO · Sec C: STAY CLEAN & TROT CO",
+    "totalMarks": 100,
+    "areaMarks": {
+      "A": 6,
+      "B": 16,
+      "C": 36,
+      "D": 16,
+      "E": 26
+    },
+    "formatMix": {
+      "numeric": 1,
+      "matrix": 1,
+      "multi": 4,
+      "single": 24
+    },
+    "subtopicCount": 16,
+    "subtopicsCovered": [
+      "mis",
+      "info-control",
+      "big-data",
+      "throughput",
+      "abc",
+      "environmental",
+      "make-or-buy",
+      "relevant-cost",
+      "cvp",
+      "quant-tech",
+      "mix-yield",
+      "budget-systems",
+      "divisional-tp",
+      "external-consid",
+      "private-public-nfp",
+      "std-costing"
+    ],
+    "secAIds": [
+      "secA-3",
+      "secA-16",
+      "secA-26",
+      "secA-59",
+      "secA-29",
+      "secA-61",
+      "secA-114",
+      "secA-73",
+      "secA-82",
+      "secA-163",
+      "secA-175",
+      "secA-139",
+      "secA-216",
+      "secA-227",
+      "secA-208"
+    ],
+    "secBIds": [
+      "secB-241",
+      "secB-252",
+      "secB-262"
+    ],
+    "secCIds": [
+      "secC-269",
+      "secC-309"
+    ]
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "name": "PM Study Hub",
+  "description": "ACCA Performance Management (PM) Study Hub and CBE Practice Platform covering 100% of the Kaplan 2026 Exam Kit and 2024–2026 Pre-Mock Exams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

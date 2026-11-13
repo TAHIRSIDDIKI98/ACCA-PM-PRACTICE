@@ -1,0 +1,218 @@
+[
+  {
+    "id": "fc-1",
+    "topicId": "mis-data",
+    "front": "ACCURATE mnemonic for qualities of good information",
+    "back": "Accurate, Complete, Cost-beneficial, User-targeted, Relevant, Authoritative, Timely, Easy to use."
+  },
+  {
+    "id": "fc-2",
+    "topicId": "mis-data",
+    "front": "TPS vs MIS vs EIS vs ERP",
+    "back": "TPS: records routine daily transactions (operational).\nMIS: summarises internal data into regular structured reports (tactical/middle mgmt).\nEIS: internal + external summarised data with drill-down for senior executives (strategic).\nERP: single integrated database across all functions."
+  },
+  {
+    "id": "fc-3",
+    "topicId": "mis-data",
+    "front": "Intranet vs Extranet",
+    "back": "Intranet: private internal network restricted to employees.\nExtranet: extends controlled access of an intranet to authorised external stakeholders (suppliers, travel agents, key customers)."
+  },
+  {
+    "id": "fc-4",
+    "topicId": "mis-data",
+    "front": "4Vs (and 5th V) of Big Data",
+    "back": "Volume (scale of data), Velocity (speed of generation/processing), Variety (structured & unstructured formats), Veracity (trustworthiness/quality) — plus Value."
+  },
+  {
+    "id": "fc-5",
+    "topicId": "mis-data",
+    "front": "Descriptive vs Predictive vs Prescriptive Data Analytics",
+    "back": "Descriptive: what happened?\nPredictive: what is likely to happen?\nPrescriptive: what actions should we take to optimise outcomes?"
+  },
+  {
+    "id": "fc-6",
+    "topicId": "mis-data",
+    "front": "Direct vs Indirect vs Prevention vs Appraisal Security Controls",
+    "back": "Preventive controls stop errors/breaches before occurrence (passwords, encryption, firewalls, locks). Contingency/corrective controls aid recovery (backups, disaster recovery)."
+  },
+  {
+    "id": "fc-7",
+    "topicId": "specialist-cost",
+    "front": "Activity-Based Costing (ABC): 4 Cost Hierarchy Categories",
+    "back": "Unit-level (per unit), Batch-level (per setup/order), Product-sustaining (per product line/design), Facility-sustaining (general factory/rent)."
+  },
+  {
+    "id": "fc-8",
+    "topicId": "specialist-cost",
+    "front": "Target Costing Formula & Cost Gap",
+    "back": "Target Cost = Competitive Market Selling Price − Desired Profit Margin.\nCost Gap = Estimated Current Product Cost − Target Cost.\nClosed via Value Analysis / Value Engineering (removing non-value-adding features without cutting perceived quality)."
+  },
+  {
+    "id": "fc-9",
+    "topicId": "specialist-cost",
+    "front": "Life-Cycle Costing Core Principle",
+    "back": "Tracks all costs over a product’s entire life (R&D, design, manufacturing, marketing, distribution, decommissioning) rather than period-by-period. ~80–90% of costs are committed at the design stage."
+  },
+  {
+    "id": "fc-10",
+    "topicId": "specialist-cost",
+    "front": "Throughput Accounting: Throughput Return per Bottleneck Hour",
+    "back": "Throughput = Selling Price − Direct Material Cost ONLY (all other factory costs including direct labour are treated as Total Factory Costs / Operating Expenses in the short term).\nReturn per Bottleneck Hour = Throughput per unit ÷ Bottleneck hours per unit."
+  },
+  {
+    "id": "fc-11",
+    "topicId": "specialist-cost",
+    "front": "Throughput Accounting Ratio (TPAR)",
+    "back": "TPAR = Return per Bottleneck Hour ÷ Cost per Bottleneck Hour (where Cost/hr = Total Factory Costs ÷ Total Bottleneck Hours).\nTPAR > 1 means product generates throughput faster than factory costs are incurred; TPAR < 1 loses money unless improved."
+  },
+  {
+    "id": "fc-12",
+    "topicId": "specialist-cost",
+    "front": "Hansen & Mendoza Environmental Cost Categories (4 Types)",
+    "back": "1. Prevention costs (designing clean processes)\n2. Appraisal/Detection costs (testing, environmental audits)\n3. Internal failure costs (scrap, toxic waste treatment inside plant)\n4. External failure costs (fines, remediation, reputational damage outside plant)."
+  },
+  {
+    "id": "fc-13",
+    "topicId": "specialist-cost",
+    "front": "Input/Output Analysis & Flow Cost Accounting (EMA)",
+    "back": "Input/Output Analysis: reconciles physical material purchased vs finished output + waste (mass balance).\nFlow Cost Accounting: separates material, system, and delivery/disposal flows into positive products vs negative waste."
+  },
+  {
+    "id": "fc-14",
+    "topicId": "decision-making",
+    "front": "Relevant Cash Flows Criteria",
+    "back": "Must be Future, Incremental, and Cash flow.\nIgnore: Sunk costs, committed costs, notional costs, absorbed fixed overheads, depreciation."
+  },
+  {
+    "id": "fc-15",
+    "topicId": "decision-making",
+    "front": "Relevant Cost of Existing Inventory Material",
+    "back": "1. If in regular use -> Current replacement cost.\n2. If no other use -> Higher of net realisable value (scrap/resale) or opportunity cost of alternative use (or saved disposal cost if toxic)."
+  },
+  {
+    "id": "fc-16",
+    "topicId": "decision-making",
+    "front": "Relevant Cost of Labour",
+    "back": "Spare capacity (paid anyway) -> $0.\nFull capacity (hire new/overtime) -> Incremental hourly/overtime cost.\nDiverted from other work -> Direct labour cost + Lost contribution per hour of diverted product."
+  },
+  {
+    "id": "fc-17",
+    "topicId": "decision-making",
+    "front": "Multi-Product Breakeven & Weighted Average C/S Ratio",
+    "back": "Weighted Avg C/S Ratio = Total Budgeted Contribution ÷ Total Budgeted Sales Revenue.\nBreakeven Revenue = Total Fixed Costs ÷ Weighted Avg C/S Ratio.\nMargin of Safety (%) = (Budgeted Sales − Breakeven Sales) ÷ Budgeted Sales × 100%."
+  },
+  {
+    "id": "fc-18",
+    "topicId": "decision-making",
+    "front": "Single Limiting Factor Ranking Rule",
+    "back": "Rank products by Contribution per unit of Limiting Factor (or Throughput per Bottleneck Hour in Throughput Accounting).\nMake-or-Buy with limiting factor: rank by Cost Saved per unit of scarce resource when making in-house vs buying."
+  },
+  {
+    "id": "fc-19",
+    "topicId": "decision-making",
+    "front": "Linear Programming: Slack vs Shadow Price",
+    "back": "Slack: unused amount of a non-binding constraint at the optimal vertex (Shadow price = $0).\nShadow Price: maximum extra contribution earned per 1 additional unit of a binding scarce resource (above its normal purchase cost)."
+  },
+  {
+    "id": "fc-20",
+    "topicId": "decision-making",
+    "front": "Demand Curve & Profit-Maximising Price Formula",
+    "back": "P = a − bQ where b = ΔPrice ÷ ΔQuantity.\nMR = a − 2bQ.\nProfit is maximised where Marginal Cost (MC) = Marginal Revenue (MR). Solve for Q, then substitute into P = a − bQ."
+  },
+  {
+    "id": "fc-21",
+    "topicId": "decision-making",
+    "front": "Market Skimming vs Market Penetration Pricing",
+    "back": "Skimming: high initial price for innovative/inelastic early adopters, lowered later.\nPenetration: low initial price to gain rapid market share and economies of scale when demand is elastic."
+  },
+  {
+    "id": "fc-22",
+    "topicId": "decision-making",
+    "front": "Decision Criteria under Uncertainty (Maximax, Maximin, Minimax Regret)",
+    "back": "Maximax (Optimist): choose highest of the best payoffs.\nMaximin (Pessimist): choose highest of the worst payoffs.\nMinimax Regret (Sore loser): build regret table (best in state − outcome), choose smallest maximum regret."
+  },
+  {
+    "id": "fc-23",
+    "topicId": "decision-making",
+    "front": "Value of Perfect Information (VOPI)",
+    "back": "VOPI = Expected Value WITH Perfect Information − Expected Value WITHOUT Perfect Information (max EV)."
+  },
+  {
+    "id": "fc-24",
+    "topicId": "budgeting-control",
+    "front": "Incremental vs Zero-Based Budgeting (ZBB)",
+    "back": "Incremental: prior year budget + % adjustment (quick, breeds slack).\nZBB: start from zero, build Decision Packages ranked by cost/benefit (eliminates slack, time-consuming)."
+  },
+  {
+    "id": "fc-25",
+    "topicId": "budgeting-control",
+    "front": "Rolling Budgets vs Activity-Based Budgeting (ABB)",
+    "back": "Rolling: continuously updated by adding a new quarter/month as the current one expires (ideal in uncertain environments).\nABB: works backwards from budgeted sales/production to activity drivers and cost pools."
+  },
+  {
+    "id": "fc-26",
+    "topicId": "budgeting-control",
+    "front": "Learning Curve Formula (Y = ax^b)",
+    "back": "Y = cumulative average time per unit for x units; a = time for 1st unit; b = log(learning rate) / log(2).\nTotal time for x units = x · Y.\nTime for nth unit = Total time(n) − Total time(n−1). Learning stops at steady state!"
+  },
+  {
+    "id": "fc-27",
+    "topicId": "budgeting-control",
+    "front": "Time Series: Trend, Seasonal Variation & Cyclical",
+    "back": "Additive: Y = T + S.\nMultiplicative: Y = T × S (seasonal indices average to 1.0 or 100%).\nCoefficient of Determination (r²): proportion of variation in y explained by x."
+  },
+  {
+    "id": "fc-28",
+    "topicId": "budgeting-control",
+    "front": "Materials Mix Variance vs Materials Yield Variance",
+    "back": "Mix Variance = (Actual Qty in Std Mix − Actual Qty in Actual Mix) × Std Price per kg.\nYield Variance = (Std Qty for Actual Output − Actual Total Qty at Std Mix) × Std Weighted Avg Price (or Std Cost per output unit)."
+  },
+  {
+    "id": "fc-29",
+    "topicId": "budgeting-control",
+    "front": "Sales Mix Variance vs Sales Quantity Variance",
+    "back": "Use Standard Margin (under absorption) or Standard Contribution (under marginal).\nMix = (Actual Sales at Actual Mix − Actual Sales at Std Mix) × Std Margin.\nQuantity = (Actual Sales at Std Mix − Budgeted Sales) × Std Margin."
+  },
+  {
+    "id": "fc-30",
+    "topicId": "budgeting-control",
+    "front": "Planning Variances vs Operational Variances",
+    "back": "Planning variance = (Original Std − Revised Std) × Revised/Actual volume (uncontrollable environmental shift).\nOperational variance = (Revised Std − Actual) × Actual volume (controllable by operational manager)."
+  },
+  {
+    "id": "fc-31",
+    "topicId": "perf-measurement",
+    "front": "Return on Investment (ROI) vs Residual Income (RI)",
+    "back": "ROI = Controllable Profit ÷ Capital Employed × 100%. Risk: dysfunctional rejection of projects above cost of capital but below current division ROI.\nRI = Controllable Profit − (Capital Employed × Cost of Capital %). Avoids dysfunctional behaviour; harder to compare divisions of different sizes."
+  },
+  {
+    "id": "fc-32",
+    "topicId": "perf-measurement",
+    "front": "Transfer Pricing Economic Range (Min & Max)",
+    "back": "Minimum TP (Selling Division) = Marginal Cost + Lost Contribution per unit from external sales displaced.\nMaximum TP (Buying Division) = External Market Price (or Net Marginal Revenue).\nWhen spare capacity exists: Min TP = Marginal Cost."
+  },
+  {
+    "id": "fc-33",
+    "topicId": "perf-measurement",
+    "front": "Kaplan & Norton Balanced Scorecard (4 Perspectives)",
+    "back": "1. Financial (shareholder view)\n2. Customer (value proposition & retention)\n3. Internal Business Processes (operational excellence)\n4. Learning & Growth (innovation, skills, systems)."
+  },
+  {
+    "id": "fc-34",
+    "topicId": "perf-measurement",
+    "front": "Fitzgerald & Moon Building Block Model (Service Businesses)",
+    "back": "Dimensions: Results (Financial, Competitiveness) & Determinants (Quality, Flexibility, Resource Utilisation, Innovation).\nStandards: Ownership, Achievability, Equity.\nRewards: Clarity, Motivation, Controllability."
+  },
+  {
+    "id": "fc-35",
+    "topicId": "perf-measurement",
+    "front": "Value for Money (VFM) 3Es in Not-for-Profit / Public Sector",
+    "back": "Economy: acquiring inputs of required quality at lowest cost.\nEfficiency: maximising output per unit of input.\nEffectiveness: achieving overall strategic outputs and outcomes."
+  },
+  {
+    "id": "fc-36",
+    "topicId": "perf-measurement",
+    "front": "Zeithaml’s 4 Service Characteristics (SHIP)",
+    "back": "Simultaneity/Inseparability (produced & consumed together), Heterogeneity (variability in human delivery), Intangibility (cannot touch before purchase -> rely on physical cues), Perishability (cannot store unsold capacity like empty hotel rooms/clinic slots)."
+  }
+]

@@ -1,0 +1,1215 @@
+{
+  "sectionA": [
+    {
+      "id": "spec-A-1",
+      "marks": 2,
+      "number": 1,
+      "prompt": "A company manufactures two products, C and D, for which the following information is available:\nProduct C Product D  |  Total\nBudgeted production (units)  |  1,000  |  4,000  |  5,000\nLabour hours per unit/in total  |  8  |  10  |  48,000\nNumber of production runs required  |  13  |  15  |  28\nNumber of inspections during production  |  5  |  3  |  8\n$\nTotal production set up costs  |  140,000\nTotal inspection costs  |  80,000\nOther overhead costs  |  96,000\nOther overhead costs are absorbed on a labour hour basis.\nUsing activity-based costing, what is the budgeted overhead cost per unit of product D?",
+      "options": [
+        {
+          "key": "A",
+          "text": "$43.84"
+        },
+        {
+          "key": "B",
+          "text": "$46.25"
+        },
+        {
+          "key": "C",
+          "text": "$131.00"
+        },
+        {
+          "key": "D",
+          "text": "$140.64"
+        }
+      ],
+      "questionType": "single",
+      "selectCount": 1,
+      "correctAnswer": "B",
+      "answerKeyRaw": "B",
+      "explanation": "B\nSet-up costs per production run = $140,000/28 = $5,000\nCost per inspection = $80,000/8 = $10,000\nOther overhead costs per labour hour = $96,000/$48,000 = $2\nOverhead costs of product D:\n$\nSet-up costs (15 × $5,000)  |  75,000\nInspection costs (3 × $10,000)  |  30,000\nOther overheads (40,000 × $2)  |  80,000\n–––––––\n185,000\n–––––––\nOverhead cost per unit = $185,000/4,000 units = $46.25",
+      "keyAnswerTip": "",
+      "tutorialNote": "",
+      "hasDiagram": false,
+      "pdfQuestionPage": 458,
+      "pdfAnswerPage": 474
+    },
+    {
+      "id": "spec-A-2",
+      "marks": 2,
+      "number": 2,
+      "prompt": "P Co makes two products, P1 and P2. The budgeted details for each product are as follows:\nP1  |  P2\n$  |  $\nSelling price  |  10.00  |  8.00\nCost per unit:\nDirect materials  |  3.50  |  4.00\nDirect labour  |  1.50  |  1.00\nVariable overhead  |  0.60  |  0.40\nFixed overhead  |  1.20  |  1.00\nProfit per unit  |  3.20  |  1.60\nBudgeted production and sales for the year ended 30 November 20X5 are:\nUnits\nProduct P1  |  10,000\nProduct P2  |  12,500\nThe fixed overhead costs included in P1 relate to apportionment of general overhead costs\nonly. However, P2 also included specific fixed overheads totalling $2,500.\nIf only product P1 were to be made, how many units would need to be sold in order to\nachieve a profit of $60,000 each year (to the nearest whole unit)?\nunits",
+      "options": [],
+      "questionType": "numeric",
+      "selectCount": 1,
+      "correctAnswer": "18636",
+      "answerKeyRaw": "18,636 units",
+      "explanation": "18,636 units\nThe number of units required to make a target profit = (fixed costs + target profit)/contribution\nper unit of P1.\nFixed costs = ($1.20 × 10,000) + ($1.00 × 12,500) – $2,500 = $22,000\nContribution per unit of P1 = $3.20 + $1.20 = $4.40\n($22,000 + $60,000)/$4.40 = 18,636 units",
+      "keyAnswerTip": "",
+      "tutorialNote": "",
+      "hasDiagram": false,
+      "pdfQuestionPage": 458,
+      "pdfAnswerPage": 474
+    },
+    {
+      "id": "spec-A-3",
+      "marks": 2,
+      "number": 3,
+      "prompt": "Which TWO of the following statements, regarding environmental cost accounting, are true?",
+      "options": [
+        {
+          "key": "A",
+          "text": "The majority of environmental costs are already captured within a typical organisation's accounting system. The difficulty lies in identifying them"
+        },
+        {
+          "key": "B",
+          "text": "Input/output analysis divides material flows within an organisation into three categories: material flows; system flows; and delivery and disposal flows"
+        },
+        {
+          "key": "C",
+          "text": "One of the cost categories used in environmental activity-based costing is environment-driven costs which is used for costs which can be directly traced to a cost centre"
+        },
+        {
+          "key": "D",
+          "text": "Environmental life-cycle costing enables environmental costs from the design stage of the product right through to decommissioning at the end of its life to be considered"
+        }
+      ],
+      "questionType": "multi",
+      "selectCount": 2,
+      "correctAnswer": [
+        "A",
+        "D"
+      ],
+      "answerKeyRaw": "A, D",
+      "explanation": "A, D\nMost organisations do collect data about environmental costs but find it difficult to split them\nout and categorise them effectively.\nLife-cycle costing does allow the organisation to collect information about a product's\nenvironmental costs throughout its lifecycle.\nThe technique which divides material into three categories is material flow cost accounting,\nnot input/output analysis.\nABC does categorise some costs as environment-driven costs, however, these are costs\nwhich are normally hidden within total overheads in a conventional costing system. It is\nenvironment-related costs which can be allocated directly to a cost centre.",
+      "keyAnswerTip": "",
+      "tutorialNote": "",
+      "hasDiagram": false,
+      "pdfQuestionPage": 459,
+      "pdfAnswerPage": 475
+    },
+    {
+      "id": "spec-A-4",
+      "marks": 2,
+      "number": 4,
+      "prompt": "To produce 19 litres of product X, a standard input mix of 8 litres of chemical A and 12 litres\nof chemical B is required.\nChemical A has a standard cost of $20 per litre and chemical B has a standard cost of $25 per\nlitre.\nDuring September, the actual results showed that 1,850 litres of product X were produced,\nusing a total input of 900 litres of chemical A and 1,100 litres of chemical B.\nThe actual costs of chemicals A and B were at the standard cost of $20 and $25 per litre\nrespectively.\nBased on the above information, which of the following statements is true?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Both variances were adverse"
+        },
+        {
+          "key": "B",
+          "text": "Both variances were favourable"
+        },
+        {
+          "key": "C",
+          "text": "The total mix variance was adverse and the total yield variance was favourable"
+        },
+        {
+          "key": "D",
+          "text": "The total mix variance was favourable and the total yield variance was adverse"
+        }
+      ],
+      "questionType": "single",
+      "selectCount": 1,
+      "correctAnswer": "D",
+      "answerKeyRaw": "D",
+      "explanation": "D\nMix variance:\nMaterial AQAM (litres)  |  AQSM (litres) Difference Std cost Variance\n(litres)  |  ($ per\nlitre)\nA  |  900  |  800  |  100A  |  20  |  $2,000 A\nB  |  1,100  |  1,200  |  100F  |  25  |  $2,500 F\n2,000  |  2,000  |  0  |  $500 F\nYield variance:\nMaterial AQSM (litres)  |  SQSM (litres) Difference Std cost Variance\n(litres)  |  ($ per\nlitre)\nA  |  800  |  779  |  21A  |  20  |  $420 A\nB  |  1,200  |  1,168  |  32A  |  25  |  $800 A\n2,000  |  1,947  |  0  |  $1,220 A",
+      "keyAnswerTip": "",
+      "tutorialNote": "",
+      "hasDiagram": false,
+      "pdfQuestionPage": 459,
+      "pdfAnswerPage": 475
+    },
+    {
+      "id": "spec-A-5",
+      "marks": 2,
+      "number": 5,
+      "prompt": "A leisure company owns a number of large health and fitness resorts, but one is suffering from declining sales and is predicted to make a loss in the next year. As a result management have identified a number of possible actions: 1 Shut down the resort and sell off the assets 2 Undertake a major upgrade to facilities costing $4.5m 3 Undertake a minor upgrade to facilities costing $2m\nThe upgrades are predicted to have variable results and the probability of good results after\na major upgrade is 0.8, whereas the probability of good results after a minor upgrade is 0.7.\nThe company is risk neutral and has prepared the following decision tree.\nUsing the information below, identify, by clicking on the relevant branch of the decision\ntree, which action the company should take.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Shut down and sell"
+        },
+        {
+          "key": "B",
+          "text": "Major upgrade"
+        },
+        {
+          "key": "C",
+          "text": "Minor upgrade"
+        }
+      ],
+      "questionType": "single",
+      "selectCount": 1,
+      "correctAnswer": "C",
+      "answerKeyRaw": "C",
+      "explanation": "C\nEV for major upgrade = (0.8 × $11m) + (0.2 × $7.5m) = $10.3m\nEV for major upgrade = (0.7 × $9m) + (0.3 × $6m) = $8.1m\nDecision\nShutdown and sell  |  $5.75m\nMajor upgrade (10.3m – 4.5m)  |  $5.8m\nMinor upgrade ($8.1m – S2m)  |  $6.1m\nAs the minor upgrade has the highest expected return that should be the option chosen.",
+      "keyAnswerTip": "",
+      "tutorialNote": "",
+      "hasDiagram": true,
+      "pdfQuestionPage": 460,
+      "pdfAnswerPage": 475
+    },
+    {
+      "id": "spec-A-6",
+      "marks": 2,
+      "number": 6,
+      "prompt": "A company has the following production planned for the next four weeks. The figures reflect the full capacity level of operations. Planned output is equal to the maximum demand per product.\nProduct  |  A  |  B  |  C  |  D\n | $ per unit | $ per unit | $ per unit | $ per unit\nSelling price  |  160  |  214  |  100  |  140\nRaw material cost  |  24  |  56  |  22  |  40\nDirect labour cost  |  66  |  88  |  33  |  22\nVariable overhead cost  |  24  |  18  |  24  |  18\nFixed overhead cost  |  16  |  10  |  8  |  12\nProfit  |  30  |  42  |  13  |  48\nPlanned output  |  300  |  125  |  240  |  400\nDirect labour hours per unit  |  6  |  8  |  3  |  2\nIt has now been identified that labour hours available in the next four weeks will be limited\nto 4,000 hours.\nRank the products in the order they should be manufactured, assuming that the company\nwants to maximise profits in the next four weeks.",
+      "options": [],
+      "questionType": "matrix",
+      "selectCount": 1,
+      "correctAnswer": "1st D, 2nd A, 3rd C, 4th B",
+      "answerKeyRaw": "1st D, 2nd A, 3rd C, 4th B",
+      "explanation": "1st D, 2nd A, 3rd C, 4th B\nIn a single limiting factor situation products should be ranked based on their contribution\nper unit of limiting factor. Which in this case is labour hours.\nMaterial  |  A  |  B  |  C  |  D\nContribution per unit ($)  |  46  |  52  |  21  |  60\nNumber of labour hours per unit  |  6  |  8  |  3  |  2\nContribution per labour hour ($)  |  7.67  |  6.50  |  7.00  |  30.00\nRanking  |  2nd  |  4th  |  3rd  |  1st",
+      "keyAnswerTip": "",
+      "tutorialNote": "",
+      "hasDiagram": false,
+      "pdfQuestionPage": 460,
+      "pdfAnswerPage": 476,
+      "matrix": {
+        "mode": "dropdown",
+        "columns": [
+          "1st",
+          "2nd",
+          "3rd",
+          "4th"
+        ],
+        "rows": [
+          {
+            "id": "rA",
+            "prompt": "Product A",
+            "correctColumn": "2nd"
+          },
+          {
+            "id": "rB",
+            "prompt": "Product B",
+            "correctColumn": "4th"
+          },
+          {
+            "id": "rC",
+            "prompt": "Product C",
+            "correctColumn": "3rd"
+          },
+          {
+            "id": "rD",
+            "prompt": "Product D",
+            "correctColumn": "1st"
+          }
+        ]
+      }
+    },
+    {
+      "id": "spec-A-7",
+      "marks": 2,
+      "number": 7,
+      "prompt": "Def Co provides accounting services to government departments. On average, each staff member works six chargeable hours per day, with the rest of their working day being spent on non-chargeable administrative work. One of the company's main objectives is to produce a high level of quality and customer satisfaction.\nDef Co has set its targets for the next year.\nMatch the correct value for money performance category to each of the following targets for Def Co.",
+      "options": [],
+      "questionType": "matrix",
+      "selectCount": 1,
+      "correctAnswer": "Efficiency– Increasing the number of chargeable hours handled by advisors to 6.2 per day.",
+      "answerKeyRaw": "Economy (Cut spend 5%), Efficiency (6.2 chargeable hrs), Effectiveness (4.7+ score)",
+      "explanation": "Efficiency– Increasing the number of chargeable hours handled by advisors to 6.2 per day.\nEffectiveness– Obtaining a score of 4.7 or above on customer satisfaction surveys.\nEconomy– Cutting departmental expenditure by 5%.",
+      "keyAnswerTip": "",
+      "tutorialNote": "",
+      "hasDiagram": false,
+      "pdfQuestionPage": 461,
+      "pdfAnswerPage": 476,
+      "matrix": {
+        "mode": "dropdown",
+        "columns": [
+          "Economy",
+          "Efficiency",
+          "Effectiveness"
+        ],
+        "rows": [
+          {
+            "id": "r1",
+            "prompt": "Cutting departmental expenditure by 5%",
+            "correctColumn": "Economy"
+          },
+          {
+            "id": "r2",
+            "prompt": "Increasing the number of chargeable hours handled by advisors to 6.2 per day",
+            "correctColumn": "Efficiency"
+          },
+          {
+            "id": "r3",
+            "prompt": "Obtaining a score of 4.7 or above on customer satisfaction surveys",
+            "correctColumn": "Effectiveness"
+          }
+        ]
+      }
+    },
+    {
+      "id": "spec-A-8",
+      "marks": 2,
+      "number": 8,
+      "prompt": "Different types of information systems provide the information which organisations need for strategic planning, management and operational control.\nMatch the following characteristics to the relevant information systems.",
+      "options": [],
+      "questionType": "matrix",
+      "selectCount": 1,
+      "correctAnswer": "MIS –Summaries internal data into periodic reports.",
+      "answerKeyRaw": "MIS (Periodic reports), TPS (Immediate processing), EIS (Dashboards/graphics), ERPS (Extranet links)",
+      "explanation": "MIS –Summaries internal data into periodic reports.\nTPS– Facilities the immediate processing of data.\nEIS– Utilities dashboard facilities and interactive graphics.\nEPRS– Can be set with extranet links to customers and suppliers.",
+      "keyAnswerTip": "",
+      "tutorialNote": "",
+      "hasDiagram": false,
+      "pdfQuestionPage": 462,
+      "pdfAnswerPage": 476,
+      "matrix": {
+        "mode": "dropdown",
+        "columns": [
+          "Management Information System (MIS)",
+          "Transaction Processing System (TPS)",
+          "Executive Information System (EIS)",
+          "Enterprise Resource Planning System (ERPS)"
+        ],
+        "rows": [
+          {
+            "id": "r1",
+            "prompt": "Summarises internal data into periodic reports",
+            "correctColumn": "Management Information System (MIS)"
+          },
+          {
+            "id": "r2",
+            "prompt": "Facilitates the immediate processing of data",
+            "correctColumn": "Transaction Processing System (TPS)"
+          },
+          {
+            "id": "r3",
+            "prompt": "Utilises dashboard facilities and interactive graphics",
+            "correctColumn": "Executive Information System (EIS)"
+          },
+          {
+            "id": "r4",
+            "prompt": "Can be set with extranet links to customers and suppliers",
+            "correctColumn": "Enterprise Resource Planning System (ERPS)"
+          }
+        ]
+      }
+    },
+    {
+      "id": "spec-A-9",
+      "marks": 2,
+      "number": 9,
+      "prompt": "Which TWO of the following statements regarding life-cycle costing are correct?",
+      "options": [
+        {
+          "key": "A",
+          "text": "It can be applied not only to products but also to an organisation's customers"
+        },
+        {
+          "key": "B",
+          "text": "Often between 70% to 90% of costs are determined early in the product life-cycle"
+        },
+        {
+          "key": "C",
+          "text": "It includes any opportunity costs associated with production"
+        },
+        {
+          "key": "D",
+          "text": "The maturity phase is characterised by a rapid build up in demand"
+        }
+      ],
+      "questionType": "multi",
+      "selectCount": 2,
+      "correctAnswer": [
+        "A",
+        "B"
+      ],
+      "answerKeyRaw": "A, B",
+      "explanation": "A, B\nCustomer life-cycle costing can be used by organisations.\nIt has been reported that the majority of a products costs are determined early on, i.e., at\nthe design phase.\nLife-cycle costing does not include any opportunity costs associated with production.\nThe growth phase is characterised by a rapid increase in demand.",
+      "keyAnswerTip": "",
+      "tutorialNote": "",
+      "hasDiagram": false,
+      "pdfQuestionPage": 462,
+      "pdfAnswerPage": 476
+    },
+    {
+      "id": "spec-A-10",
+      "marks": 2,
+      "number": 10,
+      "prompt": "A company manufactures a product which requires four hours per unit of machine time. Machine time is a bottleneck resource as there are only ten machines which are available for 12 hours per day, five days per week. The product has a selling price of $130 per unit, direct material costs of $50 per unit, labour costs of $40 per unit and factory overhead costs of\n$20 per unit. These costs are based on weekly production and sales of 150 units.\nWhat is the throughput accounting ratio?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1.33"
+        },
+        {
+          "key": "B",
+          "text": "2.00"
+        },
+        {
+          "key": "C",
+          "text": "0.75"
+        },
+        {
+          "key": "D",
+          "text": "0.31"
+        }
+      ],
+      "questionType": "single",
+      "selectCount": 1,
+      "correctAnswer": "A",
+      "answerKeyRaw": "A",
+      "explanation": "A\nReturn per factory hour = ($130 – $50)/4 hours = $20\nFactory costs per hour = ($20/4) + ($40/4) = $15\nTPAR = $20/$15 = 1.33",
+      "keyAnswerTip": "",
+      "tutorialNote": "",
+      "hasDiagram": false,
+      "pdfQuestionPage": 462,
+      "pdfAnswerPage": 476
+    },
+    {
+      "id": "spec-A-11",
+      "marks": 2,
+      "number": 11,
+      "prompt": "Ox Co has two divisions, A and B. Division A makes a component for air conditioning units\nwhich it can only sell to division B. It has no other outlet for sales.\nCurrent information relating to division A is as follows:\nMarginal cost per unit  |  $100\nTransfer price of the component  |  $165\nTotal production and sales of the component each year  |  2,200 units\nSpecific fixed costs of division A per year  |  $10,000\nCold Co has offered to sell the component to division B for $140 per unit. If division B accepts\nthis offer, division A will be closed.\nIf division B accepts Cold Co's offer, what will be the impact on profits per year for the\ngroup as a whole?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Increase of $65,000"
+        },
+        {
+          "key": "B",
+          "text": "Decrease of $78,000"
+        },
+        {
+          "key": "C",
+          "text": "Decrease of $88,000"
+        },
+        {
+          "key": "D",
+          "text": "Increase of $55,000"
+        }
+      ],
+      "questionType": "single",
+      "selectCount": 1,
+      "correctAnswer": "B",
+      "answerKeyRaw": "B",
+      "explanation": "B\nIncrease in variable costs per unt from buying in ($140 – $100) = $40\nTherefore total increase in variable costs (2,200 units × $40) = $88,000\nLess the specific fixed costs saved if A is shut down = ($10,000)\nDecrease in profit = $78,000",
+      "keyAnswerTip": "",
+      "tutorialNote": "",
+      "hasDiagram": false,
+      "pdfQuestionPage": 462,
+      "pdfAnswerPage": 476
+    },
+    {
+      "id": "spec-A-12",
+      "marks": 2,
+      "number": 12,
+      "prompt": "Identify, by clicking on the relevant box in the table below, whether each of the statements regarding Fitzgerald and Moon's Building Blocks model is true or false.",
+      "options": [],
+      "questionType": "matrix",
+      "selectCount": 1,
+      "correctAnswer": "FALSE, FALSE, TRUE, TRUE",
+      "answerKeyRaw": "FALSE, FALSE, TRUE, TRUE",
+      "explanation": "FALSE, FALSE, TRUE, TRUE\nThe determinants of performance are quality, innovation, resource utilisation and flexibility.\nCompetitiveness is a result of the determinants.\nStandards should be fair, achievable and staff should have ownership of them. Controllability\nis a feature of the rewards block.\nRewards should be clear, motivating and controllable.\nIt is a framework designed to attempt to overcome the problems associated with performance\nmanagement in service companies.",
+      "keyAnswerTip": "",
+      "tutorialNote": "",
+      "hasDiagram": false,
+      "pdfQuestionPage": 463,
+      "pdfAnswerPage": 477,
+      "matrix": {
+        "mode": "grid",
+        "columns": [
+          "TRUE",
+          "FALSE"
+        ],
+        "rows": [
+          {
+            "id": "r1",
+            "prompt": "The determinants of performance are quality, innovation, resource utilisation and competitiveness",
+            "correctColumn": "FALSE"
+          },
+          {
+            "id": "r2",
+            "prompt": "Standards are targets for performance and should be fair, achievable and controllable",
+            "correctColumn": "FALSE"
+          },
+          {
+            "id": "r3",
+            "prompt": "Rewards encourage staff to work towards the standards and should be clear, motivating and controllable",
+            "correctColumn": "TRUE"
+          },
+          {
+            "id": "r4",
+            "prompt": "It is a performance measurement framework suitable for service organisations",
+            "correctColumn": "TRUE"
+          }
+        ]
+      }
+    },
+    {
+      "id": "spec-A-13",
+      "marks": 2,
+      "number": 13,
+      "prompt": "A budget is a quantified plan of action for a forthcoming period. Budgets can be prepared using a variety of different approaches.\nMatch each of the following statements to the correct budgeting process.",
+      "options": [],
+      "questionType": "matrix",
+      "selectCount": 1,
+      "correctAnswer": "Beyond –Uses adaptive management processes",
+      "answerKeyRaw": "Incremental, Flexible, Zero-based, Activity-based, Rolling, Beyond budgeting",
+      "explanation": "Beyond –Uses adaptive management processes\nIncremental –Builds in previous problems and inefficiencies\nActivity –Focuses on controlling the causes of costs\nRolling –Always extends the budget one year into the future\nFlexible –Recognises different cost behaviour patterns\nZero-based –Focuses employees on avoiding wasteful expenditure",
+      "keyAnswerTip": "",
+      "tutorialNote": "",
+      "hasDiagram": false,
+      "pdfQuestionPage": 463,
+      "pdfAnswerPage": 477,
+      "matrix": {
+        "mode": "dropdown",
+        "columns": [
+          "Beyond budgeting",
+          "Incremental budgeting",
+          "Activity-based budgeting",
+          "Rolling budgeting",
+          "Flexible budgeting",
+          "Zero-based budgeting"
+        ],
+        "rows": [
+          {
+            "id": "r1",
+            "prompt": "Builds in previous problems and inefficiencies",
+            "correctColumn": "Incremental budgeting"
+          },
+          {
+            "id": "r2",
+            "prompt": "Recognises different cost behaviour patterns",
+            "correctColumn": "Flexible budgeting"
+          },
+          {
+            "id": "r3",
+            "prompt": "Focuses employees on avoiding wasteful expenditure",
+            "correctColumn": "Zero-based budgeting"
+          },
+          {
+            "id": "r4",
+            "prompt": "Focuses on controlling the causes of costs",
+            "correctColumn": "Activity-based budgeting"
+          },
+          {
+            "id": "r5",
+            "prompt": "Always extends the budget one year into the future",
+            "correctColumn": "Rolling budgeting"
+          },
+          {
+            "id": "r6",
+            "prompt": "Uses adaptive management processes",
+            "correctColumn": "Beyond budgeting"
+          }
+        ]
+      }
+    },
+    {
+      "id": "spec-A-14",
+      "marks": 2,
+      "number": 14,
+      "prompt": "LPM Co has identified the trend line relating to its sales revenue as 2,000 + 25X.\nX denotes the quarter number, with the first quarter of 20X5 being 13, the second quarter of\n20X5 being 14, etc.\nLPM Co uses the multiplicative model and has calculated the following seasonal variations:\nQuarter 1: –0.20\nQuarter 2: –0.08\nQuarter 3: +0.04\nQuarter 4: +0.24\nWhat is LPM CO's seasonally adjusted sales revenue forecast for the second quarter of\n20X7?\n$____________",
+      "options": [],
+      "questionType": "numeric",
+      "selectCount": 1,
+      "correctAnswer": "2,346",
+      "answerKeyRaw": "2,346",
+      "explanation": "2,346\nIf the first quarter of 20X5 is quarter 13, the second quarter of 20X7 is quarter 22.\nThe forecasted sales revenue using the trend line is 2,000 + (25 × 22) = 2,550.\nThe seasonal variation for quarter 2 is -8%, so the sales revenue forecast is 2,550 × (1 – 0.08)\n= $2,346",
+      "keyAnswerTip": "",
+      "tutorialNote": "",
+      "hasDiagram": false,
+      "pdfQuestionPage": 464,
+      "pdfAnswerPage": 477
+    },
+    {
+      "id": "spec-A-15",
+      "marks": 2,
+      "number": 15,
+      "prompt": "Yoyo Co manufactures a single product, the Yog, which is made from a mix of two ingredients:\nX and Y. Yoyo Co accounts for environmental costs using input/output analysis.\nIngredient X costs $550 per tonne and ingredient Y costs $825 per tonne. Any ingredients\nwhich are wasted in the production process must be disposed of at a cost of $150 per tonne.\nJuly's production run used 24 tonnes of ingredient X and 36 tonnes of ingredient Y, total\noutput of Yog was 57 tonnes.\nWhat is the environmental cost of July's production run?",
+      "options": [
+        {
+          "key": "A",
+          "text": "$450"
+        },
+        {
+          "key": "B",
+          "text": "$1,695"
+        },
+        {
+          "key": "C",
+          "text": "$2,145"
+        },
+        {
+          "key": "D",
+          "text": "$2,595"
+        }
+      ],
+      "questionType": "single",
+      "selectCount": 1,
+      "correctAnswer": "D",
+      "answerKeyRaw": "D",
+      "explanation": "D\nTonnes wasted = (24 + 36) – 57 = 3 tonnes\nCost of wasted materials per tonne (assuming constant mix)\n= ((24/60) × $550) + ((36/60) × $825)\n= $715\nCost of disposal = $150 per tonne\nSo total cost of wasted materials = 3 tonnes × ($715 + $150) = $2,595",
+      "keyAnswerTip": "",
+      "tutorialNote": "",
+      "hasDiagram": false,
+      "pdfQuestionPage": 464,
+      "pdfAnswerPage": 477
+    }
+  ],
+  "sectionB": [
+    {
+      "id": "spec-B-1",
+      "title": "Glam Co",
+      "scenario": "Glam Co is a hairdressing salon which provides both 'cuts' and 'treatments' to clients. All cuts and\ntreatments at the salon are carried out by one of the salon's three senior stylists. The salon also has\ntwo salon assistants and two junior stylists.\nEvery client attending the salon is first seen by a salon assistant, who washes their hair; next, by a\nsenior stylist, who cuts or treats their hair depending on which service the client wants; then finally,\na junior stylist who dries their hair. The average length of time spent with each member of staff is\nas follows:\nCut  |  Treatment\n(Hours)  |  (Hours)\nAssistant  |  0.1  |  0.3\nSenior stylist  |  1.0  |  1.5\nJunior stylist  |  0.6  |  0.5\nThe salon is open for eight hours each day for six days per week. It is only closed for two weeks\neach year. Staff salaries are $40,000 each year for each senior stylist, $28,000 each year for each\njunior stylist and $12,000 each year for each of the assistants. The cost of cleaning products applied\nwhen washing clients' hair is $1.50 per client. The cost of all additional products applied during a\n'treatment' is $7.40 per client. Other salon costs (excluding labour and raw materials) amount to\n$106,400 each year.\nGlam Co charges $60 for each cut and $110 for each treatment.\nThe senior stylists' time has been correctly identified as the bottleneck activity.",
+      "pdfQuestionPage": 465,
+      "pdfAnswerPage": 478,
+      "subQuestions": [
+        {
+          "marks": 2,
+          "number": 16,
+          "prompt": "What is the annual capacity of the bottleneck activity?",
+          "options": [
+            {
+              "key": "A",
+              "text": "2,400 cuts or 1,600 treatments"
+            },
+            {
+              "key": "B",
+              "text": "4,800 cuts or 4,800 treatments"
+            },
+            {
+              "key": "C",
+              "text": "7,200 cuts or 4,800 treatments"
+            },
+            {
+              "key": "D",
+              "text": "9,600 cuts or 9,600 treatments"
+            }
+          ],
+          "questionType": "single",
+          "selectCount": 1,
+          "correctAnswer": "C",
+          "answerKeyRaw": "C",
+          "explanation": "C\nTotal salon hours = 8 × 6 × 50 = 2,400 each year\nThere are three senior stylists, therefore total hours available = 7,200.\nBased on the time taken for each activity, they can perform 7,200 cuts (7,200 hours/1 hour\nper cut) or 4,800 treatments(7,200 hours/1.5 hours per treatment).",
+          "keyAnswerTip": "",
+          "tutorialNote": "",
+          "hasDiagram": false,
+          "pdfQuestionPage": 465,
+          "pdfAnswerPage": 478
+        },
+        {
+          "marks": 2,
+          "number": 17,
+          "prompt": "The salon has calculated the cost per hour to be $42.56.\nCalculate the throughput accounting ratio (TPAR) for both services (to two decimal places).\nCuts________________\nTreatments________________",
+          "options": [],
+          "questionType": "numeric",
+          "selectCount": 1,
+          "correctAnswer": "1.37, 1.58",
+          "answerKeyRaw": "Cuts: 1.37 | Treatments: 1.58",
+          "explanation": "Cuts: 1.37\nTreatments: 1.58\nCuts\nReturn per hour = (Selling price – material cost)/time taken on the bottleneck = (60 – 1.50)/1\n= 58.50\nTPAR = Return per hour/cost per hour = 58.50/42.56 = 1.37 (to 2 decimal places)\nTreatments\nReturn per hour = (Selling price – material cost)/time taken on the bottleneck = (110 –\n8.90)/1.5 = 67.40\nTPAR Return per hour/cost per hour = 67.40/42.56 = 1.58 (to 2 decimal places)",
+          "keyAnswerTip": "",
+          "tutorialNote": "",
+          "hasDiagram": false,
+          "pdfQuestionPage": 465,
+          "pdfAnswerPage": 478,
+          "subInputs": [
+            {
+              "id": "cuts",
+              "label": "Cuts TPAR (2 decimal places)",
+              "correctAnswer": "1.37"
+            },
+            {
+              "id": "treatments",
+              "label": "Treatments TPAR (2 decimal places)",
+              "correctAnswer": "1.58"
+            }
+          ]
+        },
+        {
+          "marks": 2,
+          "number": 18,
+          "prompt": "Which THREE of the following activities could the salon use to improve the TPAR?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Identify ways to reduce the material costs for the services"
+            },
+            {
+              "key": "B",
+              "text": "Increase the time spent by the bottleneck activity on each service"
+            },
+            {
+              "key": "C",
+              "text": "Improve the control of the salon's total operating expenses"
+            },
+            {
+              "key": "D",
+              "text": "Increase the level of inventory to prevent stockouts"
+            },
+            {
+              "key": "E",
+              "text": "Increase the productivity of the stage prior to the bottleneck"
+            },
+            {
+              "key": "F",
+              "text": "Apply an increase to the selling price of the services"
+            }
+          ],
+          "questionType": "multi",
+          "selectCount": 3,
+          "correctAnswer": [
+            "A",
+            "C",
+            "F"
+          ],
+          "answerKeyRaw": "A, C, F",
+          "explanation": "A, C, F\nThe factors that are included in the TPAR are selling price, material costs, operating expenses\nand bottleneck time. Increasing the selling price and reducing costs will improve the TPAR.\nIncreasing the time each service takes on the bottleneck (the senior stylists time) will only\nreduce the number of services they can provide, so this will not improve throughput.\nThroughput accounting does not advocate the building of inventory as it is often used in a\njust-in-time environment and there no point increasing the activity prior to the bottleneck as\nit will just create a build-up of work-in-progress. Neither of these will improve the rate of\nthroughput through the process.",
+          "keyAnswerTip": "",
+          "tutorialNote": "",
+          "hasDiagram": false,
+          "pdfQuestionPage": 466,
+          "pdfAnswerPage": 478
+        },
+        {
+          "marks": 2,
+          "number": 19,
+          "prompt": "What would be the effect on the bottleneck if the salon employed another senior stylist?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The senior stylists' time will be a bottleneck for cuts only"
+            },
+            {
+              "key": "B",
+              "text": "The senior stylists' time will be a bottleneck for treatments only"
+            },
+            {
+              "key": "C",
+              "text": "The senior stylists' time will remain the bottleneck for both cuts and treatments"
+            },
+            {
+              "key": "D",
+              "text": "There will no longer be a bottleneck"
+            }
+          ],
+          "questionType": "single",
+          "selectCount": 1,
+          "correctAnswer": "B",
+          "answerKeyRaw": "B",
+          "explanation": "B\nExisting capacity:\nCut  |  Treatment\nAssistants  |  48,000  |  16,000\nSenior stylists  |  7,200  |  4,800\nJunior stylists  |  8,000  |  9,600\nIf another senior stylist is employed, this will mean that their available hours will be (4 ×\n2,400) = 9,600.\nThis will give them capacity to now do 9,600 cuts (9,600 hours/1 hour per cut) and 6,400\ntreatments (9,600 hours/1.5 hours per treatment).\nAs a result, the senior stylists will still be the bottleneck activity for treatments but for cuts\nthe bottleneck will now be the junior stylists as they can only do 8,000 cuts compared to the\nsenior stylists of 9,600.",
+          "keyAnswerTip": "",
+          "tutorialNote": "",
+          "hasDiagram": false,
+          "pdfQuestionPage": 466,
+          "pdfAnswerPage": 478
+        },
+        {
+          "marks": 2,
+          "number": 20,
+          "prompt": "Which of the following statements regarding the theory of constraints are correct?\n(1) It focuses on identifying stages of congestion in a process when production arrives\nmore quickly than the next stage can handle\n(2) It is based on the concept that organisations manage three key factors -throughput,\noperating expenses and inventory\n(3) It uses a sequence of focusing steps to overcome a single bottleneck, at which point\nthe improvement process is complete\n(4) It can be applied to the management of all limiting factors, both internal and external,\nwhich can affect an organisation",
+          "options": [
+            {
+              "key": "A",
+              "text": "(1) and (2) only"
+            },
+            {
+              "key": "B",
+              "text": "(1), (2) and (3)"
+            },
+            {
+              "key": "C",
+              "text": "(2), (3) and (4)"
+            },
+            {
+              "key": "D",
+              "text": "(1), (3) and (4)"
+            }
+          ],
+          "questionType": "single",
+          "selectCount": 1,
+          "correctAnswer": "A",
+          "answerKeyRaw": "A",
+          "explanation": "A\nThe theory of constraints is focused on identifying restrictions in a process and how to\nmanage that restriction (commonly termed a bottleneck).\nIt is based on the concept of managing throughput, operating expenses and inventory.\nIt does use a series of focusing steps but is not complete once the bottleneck has been\novercome. In fact, it is an ongoing process of improvement, as once the bottleneck has been\nelevated it is probable that another bottleneck will appear and the process will continue.\nIt cannot be applied to all limiting factors as some, particularly those external to the\norganisation, may be out the organisations control.",
+          "keyAnswerTip": "",
+          "tutorialNote": "",
+          "hasDiagram": false,
+          "pdfQuestionPage": 466,
+          "pdfAnswerPage": 479
+        }
+      ]
+    },
+    {
+      "id": "spec-B-2",
+      "title": "Chair Co",
+      "scenario": "Chair Co has several new products in development. Information relating to three of these products\nis as follows:\nLuxury car seat\nThe estimated labour time for the first unit is 12 hours but a learning curve of 75% (b = –0.415)is\nexpected to apply for the first eight units produced. The cost of labour is $15 per hour.\nThe cost of materials and other variable overheads is expected to total $230 per unit. Chair Co plans\non pricing the seat by adding a 50% mark-up to the total variable cost per seat, with the labour cost\nbeing based on the incremental time taken to produce the eighth unit.\nHigh chair\nAnother product which Chair Co has in development is a new design of high chair for feeding young\nchildren. Based on previous experience of producing similar products, Chair Co had assumed that a\nlearning rate of 85% would apply to the manufacture of this new design but after the first phase of\nproduction had been completed, management realised that a learning rate of 80% had been\nachieved.\nOffice chair\nChair Co has also developed a new type of office chair and management is trying to formulate a\nbudget for this product. They have decided to match the production level to demand, however,\ndemand for this chair is uncertain.\nManagement have collected the following information:\nDemand Probability\n(units)\nWorst possible outcome  |  10,000  |  0.3\nMost likely outcome  |  22,000  |  0.5\nBest possible outcome  |  35,000  |  0.2\nThe selling price per unit is $25. The variable cost per unit is $8 for any production level up to 25,000\nunits. If the production level is higher than 25,000 units then the variable cost per unit will decrease\nby 10% and this reduction will apply to all the units produced at that level.\nTotal fixed costs are estimated to be $75,000.\nChair Co uses cost-plus pricing when setting prices for its products.",
+      "pdfQuestionPage": 467,
+      "pdfAnswerPage": 479,
+      "subQuestions": [
+        {
+          "marks": 2,
+          "number": 21,
+          "prompt": "In relation to the luxury car seat, what is the labour cost of the eighth unit?",
+          "options": [
+            {
+              "key": "A",
+              "text": "$45.65"
+            },
+            {
+              "key": "B",
+              "text": "$75.94"
+            },
+            {
+              "key": "C",
+              "text": "$4.32"
+            },
+            {
+              "key": "D",
+              "text": "$3.04"
+            }
+          ],
+          "questionType": "single",
+          "selectCount": 1,
+          "correctAnswer": "A",
+          "answerKeyRaw": "A",
+          "explanation": "A\nb\nLearning curve formula = y = ax\n–0.415\nCumulative average time per unit for 8 units: Y = 12 × 8 = 5.0628948 hours.\nTherefore cumulative total time for 8 units = 40.503158 hours.\n–0.415\nCumulative average time per unit for 7 units: Y = 12 × 7 = 5.3513771 hours.\nTherefore cumulative total time for 7 units = 37.45964 hours.\nIncremental time for 8th unit = 40.503158 hours – 37.45964 hours = 3.043518 hours.\nTotal labour cost for 8th unit = 3.043518 × S15 = $45.65 (to 2.d.p.)",
+          "keyAnswerTip": "",
+          "tutorialNote": "",
+          "hasDiagram": false,
+          "pdfQuestionPage": 468,
+          "pdfAnswerPage": 479
+        },
+        {
+          "marks": 2,
+          "number": 22,
+          "prompt": "The first phase of production has now been completed for the new car seat. The first unit\nactually took 12.5 hours to make and the total time for the first eight units was 34.3 hours,\nat which point the learning effect came to an end. Chair Co are planning on adjusting the\nprice to reflect the actual time it took to complete the eighth unit.\nWhat was the actual rate of learning which occurred (to two decimal places)?\n____________ %",
+          "options": [],
+          "questionType": "numeric",
+          "selectCount": 1,
+          "correctAnswer": "70.00%",
+          "answerKeyRaw": "70.00%",
+          "explanation": "70.00%\nn\nY = ar where r = 3 as output has doubled 3 times from the first unit to the 8th.\nY = cumulative average time per unit after 8 units = 34.3/8 = 4.2875\n3\nSo 4.2875 = 12.5 × r\n3\nr = 0.343\nr = 0.7 = 70.00%",
+          "keyAnswerTip": "",
+          "tutorialNote": "",
+          "hasDiagram": false,
+          "pdfQuestionPage": 468,
+          "pdfAnswerPage": 479
+        },
+        {
+          "marks": 2,
+          "number": 23,
+          "prompt": "In relation to the new design of high chair, which THREE of the following statements could\nexplain why the actual rate of learning differed from the rate which was expected?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Staffing levels were stable during the first manufacturing phase B. There were machine breakdowns during production"
+            },
+            {
+              "key": "B",
+              "text": "There were machine breakdowns during production"
+            },
+            {
+              "key": "C",
+              "text": "Assembly of the chairs was manual and very repetitive"
+            },
+            {
+              "key": "D",
+              "text": "There was high staff turnover during this period"
+            },
+            {
+              "key": "E",
+              "text": "There were minimal stoppages in the production process"
+            },
+            {
+              "key": "F",
+              "text": "The design of the chair was changed several times at this early phase"
+            }
+          ],
+          "questionType": "multi",
+          "selectCount": 3,
+          "correctAnswer": [
+            "A",
+            "C",
+            "E"
+          ],
+          "answerKeyRaw": "A, C, E",
+          "explanation": "A, C, E\nAn 80% learning rate means that the learning was faster than expected.\nFactors which are present for a learning curve to take effect are a highly manual and\nrepetitive process (so staff can become quicker the more they perform the same series of\ntasks), no stoppages to production (so the learning rate will not be lost whilst staff are idle)\nand a stable workforce (so the learning does not have to keep restarting).\nIt there is high staff turnover, stoppages in production and continual design changes, then\nthe learning rate will not be effective and should be slower.",
+          "keyAnswerTip": "",
+          "tutorialNote": "",
+          "hasDiagram": false,
+          "pdfQuestionPage": 468,
+          "pdfAnswerPage": 479
+        },
+        {
+          "marks": 2,
+          "number": 24,
+          "prompt": "Using an expected value approach, what is the expected budgeted contribution of the\noffice chairs (to the nearest whole $)?\n$____________",
+          "options": [],
+          "questionType": "numeric",
+          "selectCount": 1,
+          "correctAnswer": "$362,600",
+          "answerKeyRaw": "$362,600",
+          "explanation": "$362,600\nAs the variable cost per unt is changing depending on the production level, contribution for\neach level needs to be calculated and then the probabilities applied to the outcomes.\nDemand (units) Contribution  |  Total  |  Probability Expected budgeted\nper unit Contribution  |  contribution\n10,000  |  17.00  |  170,000  |  0.3  |  51,000\n22,000  |  17.00  |  374,000  |  0.5  |  187,000\n35,000  |  17.80  |  623,000  |  0.2  |  124,600\n362,600",
+          "keyAnswerTip": "",
+          "tutorialNote": "",
+          "hasDiagram": false,
+          "pdfQuestionPage": 468,
+          "pdfAnswerPage": 480
+        },
+        {
+          "marks": 2,
+          "number": 25,
+          "prompt": "Identify, by clicking on the relevant box in the table below, whether each of the statements\nregarding cost-plus pricing strategies is true or false.\nMarginal cost plus pricing is easier where there is a readily\nTRUE  |  FALSE\nidentifiable variable cost\nFull cost plus pricing requires the budgeted level of output to\nTRUE  |  FALSE\nbe determined at the outset\nCost-plus pricing is a strategically focused approach as it\nTRUE  |  FALSE\naccounts for external factors\nCost-plus pricing requires that the profit mark-up applied by\nTRUE  |  FALSE\nan organisation is fixed",
+          "options": [],
+          "questionType": "matrix",
+          "selectCount": 1,
+          "correctAnswer": "TRUE, TRUE, FALSE, FALSE",
+          "answerKeyRaw": "TRUE, TRUE, FALSE, FALSE",
+          "explanation": "TRUE, TRUE, FALSE, FALSE\nAs marginal costing is based on variable costs it is easier when a readily identifiable variable\ncost has been established.\nThe budgeted volume of output does need to be determined for full cost-plus pricing as it\nwould be used to calculate the overhead absorption rate tor the calculation of the full cost\nper unit.\nCost-plus pricing is internally focused, and a drawback of the technique is that it fails to\nconsider influences, like competitor pricing strategies.\nThe mark-up percentage does not have to be fixed, it can vary and be adjusted to reflect\nmarket conditions.",
+          "keyAnswerTip": "",
+          "tutorialNote": "",
+          "hasDiagram": false,
+          "pdfQuestionPage": 468,
+          "pdfAnswerPage": 480,
+          "matrix": {
+            "mode": "grid",
+            "columns": [
+              "TRUE",
+              "FALSE"
+            ],
+            "rows": [
+              {
+                "id": "r1",
+                "prompt": "Marginal cost plus pricing is easier where there is a readily identifiable variable cost",
+                "correctColumn": "TRUE"
+              },
+              {
+                "id": "r2",
+                "prompt": "Full cost plus pricing requires the budgeted level of output to be determined at the outset",
+                "correctColumn": "TRUE"
+              },
+              {
+                "id": "r3",
+                "prompt": "Cost-plus pricing is a strategically focused approach as it accounts for external factors",
+                "correctColumn": "FALSE"
+              },
+              {
+                "id": "r4",
+                "prompt": "Cost-plus pricing requires that the profit mark-up applied by an organisation is fixed",
+                "correctColumn": "FALSE"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "spec-B-3",
+      "title": "The Hi Life Co",
+      "scenario": "The Hi Life Co makes sofas. It has recently received a request from a customer to provide a one-off\norder of sofas, in excess of normal budgeted production. The order would need to be completed\nwithin two weeks.\nThe following cost estimate has already been prepared:\nNote  |  $\nDirect materials:\nFabric  |  200 m² at $17 per m²  |  1  |  3,400\nWood  |  50 m² at $8.20 per m²  |  2  |  410\nDirect labour:\nSkilled  |  200 hours at $16 per hour 3  |  3,200\nSemi-skilled  |  300 hours at $12 per hour 4  |  3,600\nFactory overheads  |  500 hours at $3 per hour  |  5  |  1,500\nTotal production cost  |  12,110\nGeneral fixed overheads at 10% of total\nproduction cost  |  1,211\nTotal cost  |  13,321\nNotes:\n(1) The fabric is regularly used by Hi Life Co. There are currently 300 m² in inventory, which cost\n$17 per m². The current purchase price of the fabric is $17.50 per m².\n(2) The wood is regularly used by Hi Life Co and usually costs $8.20 per m². However, the\ncompany's current supplier's earliest delivery time for the wood is in three weeks' time. An\nalternative supplier could deliver immediately but they would charge $8.50 per m². Hi Life Co\nalready has 500 m² in inventory but 480 m² of this is needed to complete other existing orders\nin the next two weeks. The remaining 20 m² is not going to be needed until four weeks' time.\n(3) The skilled labour force is employed under permanent contracts of employment under which\nthey must be paid for 40 hours per week's labour, even if their time is idle due to absence of\norders. Their rate of pay is $16 per hour, although any overtime is paid at time and a half. In\nthe next two weeks there is spare capacity of 150 labour hours.\n(4) There is no spare capacity for semi-skilled workers. They are currently paid $12 per hour or\ntime and a half for overtime. However, a local agency can provide additional semi-skilled\nworkers for $14 per hour.\n(5) Of the $3 per hour factory overheads costs, $1.50 per hour reflects the electricity costs of\nrunning the cutting machine which will be used to cut the fabric and wood for the sofas. The\nother $1.50 per hour reflects the cost of the factory supervisor's salary. The supervisor is paid\nan annual salary and is also paid $15 per hour for any overtime he works. The supervisor will\nneed to work 20 hours' overtime if this order is accepted.\nA quotation now needs to be prepared on a relevant cost basis so that Hi Life Co can offer as\ncompetitive a price as possible for the order.",
+      "pdfQuestionPage": 469,
+      "pdfAnswerPage": 480,
+      "subQuestions": [
+        {
+          "marks": 2,
+          "number": 26,
+          "prompt": "What is the cost of the fabric and the wood which should be included in the quotation (to\nthe nearest whole $)?\nFabric  |  $ ____________\nWood  |  $ ____________",
+          "options": [],
+          "questionType": "numeric",
+          "selectCount": 1,
+          "correctAnswer": "Fabric: $3,500",
+          "answerKeyRaw": "Fabric: $3,500 | Wood: $419",
+          "explanation": "Fabric: $3,500\nWood: $419\nFabric is in regular use, so the replacement cost is the relevant cost\n2\n(200m × $17.50) = $3,500\n2   |  2\n30m of wood will have to be ordered in from the alternative supplier but the remaining 20m\nwhich is in inventory and not needed for other work can used and then replaced by an order\nfrom the usual suppler.\n2   |  2\n(30m × $8.50) + (20m × $8.20) = $419",
+          "keyAnswerTip": "",
+          "tutorialNote": "",
+          "hasDiagram": false,
+          "pdfQuestionPage": 470,
+          "pdfAnswerPage": 480,
+          "subInputs": [
+            {
+              "id": "fabric",
+              "label": "Fabric relevant cost",
+              "prefix": "$",
+              "correctAnswer": "3500"
+            },
+            {
+              "id": "wood",
+              "label": "Wood relevant cost",
+              "prefix": "$",
+              "correctAnswer": "419"
+            }
+          ]
+        },
+        {
+          "marks": 2,
+          "number": 27,
+          "prompt": "What cost should be included in the quotation for skilled labour and semi-skilled labour (to\nthe nearest whole $)?\nSkilled  |  $ ____________\nSemi-skilled $ ____________",
+          "options": [],
+          "questionType": "numeric",
+          "selectCount": 1,
+          "correctAnswer": "Skilled: $1,200",
+          "answerKeyRaw": "Skilled: $1,200 | Semi-skilled: $4,200",
+          "explanation": "Skilled: $1,200\nSemi-skilled: $4,200\nSkilled labour:\nThere is no cost for the first 150 hours as there is spare capacity The remaining 50 hours\nrequired will paid at time and a half, which is $16 × 1.5 = $24.\n50 hours × $24 = $1,200\nSkilled labour:\nThere is no spare capacity so the company will either need to pay overtime or hire in\nadditional staff. The cost of paying overtime would be $18 per hour so it would be cheaper\nto hire in the additional Staff for $14 per hour.\n300 hours × $14 = $4,200",
+          "keyAnswerTip": "",
+          "tutorialNote": "",
+          "hasDiagram": false,
+          "pdfQuestionPage": 470,
+          "pdfAnswerPage": 480,
+          "subInputs": [
+            {
+              "id": "skilled",
+              "label": "Skilled labour relevant cost",
+              "prefix": "$",
+              "correctAnswer": "1200"
+            },
+            {
+              "id": "semi",
+              "label": "Semi-skilled labour relevant cost",
+              "prefix": "$",
+              "correctAnswer": "4200"
+            }
+          ]
+        },
+        {
+          "marks": 2,
+          "number": 28,
+          "prompt": "What is the cost which should be included in the quotation for factory overheads (to the\nnearest whole $)?\n$ ____________",
+          "options": [],
+          "questionType": "numeric",
+          "selectCount": 1,
+          "correctAnswer": "$1,050",
+          "answerKeyRaw": "$1,050",
+          "explanation": "$1,050\nThe electricity costs are incremental as the machine will be used more to produce the new\norder (500 hours × $1.50) = $750.\nThe supervisor’s salary is not relevant as it is paid anyway. However, the overtime is relevant\n(20 hours × $15) = $300\nTotal = $750 + $300 = $1,050",
+          "keyAnswerTip": "",
+          "tutorialNote": "",
+          "hasDiagram": false,
+          "pdfQuestionPage": 470,
+          "pdfAnswerPage": 481
+        },
+        {
+          "marks": 2,
+          "number": 29,
+          "prompt": "Which statement correctly describes the treatment of the general fixed overheads when\npreparing the quotation?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The overheads should be excluded because they are a sunk cost"
+            },
+            {
+              "key": "B",
+              "text": "The overheads should be excluded because they are not incremental costs"
+            },
+            {
+              "key": "C",
+              "text": "The overheads should be included because they relate to production costs"
+            },
+            {
+              "key": "D",
+              "text": "The overheads should be included because all expenses should be recovered"
+            }
+          ],
+          "questionType": "single",
+          "selectCount": 1,
+          "correctAnswer": "B",
+          "answerKeyRaw": "B",
+          "explanation": "B\nThe general fixed overheads should be excluded as they are not incremental, i.e. they are not\narising specifically as a result of this order.\nThey are not sunk as they are not past costs. This is a common misconception.",
+          "keyAnswerTip": "",
+          "tutorialNote": "",
+          "hasDiagram": false,
+          "pdfQuestionPage": 470,
+          "pdfAnswerPage": 481
+        },
+        {
+          "marks": 2,
+          "number": 30,
+          "prompt": "Which FOUR of the following statements about relevant costing are true?",
+          "options": [
+            {
+              "key": "A",
+              "text": "An opportunity cost will always be a relevant cost even if it is a past cost"
+            },
+            {
+              "key": "B",
+              "text": "Fixed costs are always general in nature and are therefore never relevant"
+            },
+            {
+              "key": "C",
+              "text": "Committed costs are never considered to be relevant costs"
+            },
+            {
+              "key": "D",
+              "text": "An opportunity cost represents the cost of the best alternative forgone"
+            },
+            {
+              "key": "E",
+              "text": "Notional costs are always relevant as they make the estimate more realistic"
+            },
+            {
+              "key": "F",
+              "text": "Avoidable costs would be saved if an activity did not happen and so are relevant"
+            },
+            {
+              "key": "G",
+              "text": "Common costs are only relevant if the viability of the whole process is being assessed"
+            },
+            {
+              "key": "H",
+              "text": "Differential costs in a make or buy decision are not considered to be relevant"
+            }
+          ],
+          "questionType": "multi",
+          "selectCount": 4,
+          "correctAnswer": [
+            "C",
+            "D",
+            "F",
+            "G"
+          ],
+          "answerKeyRaw": "C, D, F, G",
+          "explanation": "C, D, F, G\nAn opportunity cost does represent the cost of the best alternative forgone. However, if it is\nhistoric (past) cost it would not be relevant.\nFixed costs can be incremental a decision and in those circumstances would be relevant.\nCommitted costs ate costs the organisation has already agreed to and can no longer influence\nand so are not relevant.\nNotional costs are used to make cost estimates more realistic. However, they are not real\ncash flows and are not considered to be relevant.\nAvoidable costs are saved if an activity is not undertaken and if this occurs as a result of the\ndecision, then they are relevant.\nCommon costs are relevant if the whole process is being evaluated. However, they aren’t\nrelevant to a further processing decision.\nDifferential costs relevant in a make or buy decision as the organisation is trying to choose\nbetween two options.",
+          "keyAnswerTip": "",
+          "tutorialNote": "",
+          "hasDiagram": false,
+          "pdfQuestionPage": 470,
+          "pdfAnswerPage": 481
+        }
+      ]
+    }
+  ],
+  "sectionC": [
+    {
+      "id": "secC-31",
+      "number": 31,
+      "title": "CARAD CO",
+      "sitting": "",
+      "topicId": "budgeting-control",
+      "topicTitle": "Budgeting and Control",
+      "scenario": "Carad Co is an electronics company which makes two types of television -plasma screen TVs\nand LCD TVs. It operates within a highly competitive market and is constantly under pressure\nto reduce prices. Carad Co operates a standard costing system and performs a detailed\nvariance analysis of both products on a monthly basis. Extracts from the management\ninformation for the month of November are shown below:\nNote\nTotal number of units made and sold  |  1  |  1,400\nMaterial price variance  |  2  |  $28,000 A\nTotal labour variance  |  3  |  $6,050 A\nNotes:\n(1) The budgeted total sales volume for TVs was 1,180 units, consisting of an equal mix of\nplasma screen TVs and LCD screen TVs. Actual sales volume was 750 plasma TVs and\n650 LCD TVs. Standard sales prices are $350 per unit for the plasma TVs and $300 per\nunit for the LCD TVs. The actual sales prices achieved during November were $330 per\nunit for plasma TV and $290 per unit for LCD TVs. The standard contributions for\nplasma TVs and LCD TVs are $190 and $180 per unit respectively.\n(2) The sole reason for this variance was an increase in the purchase price of one of its key\ncomponents, X. Each plasma TV made and each LCD TV made requires one unit of\ncomponent X, for which Carad Co's standard cost is $60 per unit. Due to a shortage of\ncomponents in the market place, the market price for November went up to $85 per\nunit for X. Carad Co actually paid $80 per unit for it.\n(3) Each plasma TV uses 2 standard hours of labour and each LCD TV uses 1.5 standard\nhours of labour. The standard cost for labour is $14 per hour and this also reflects the\nactual cost per labour hour for the company's permanent staff in November. However,\nbecause of the increase in sales and production volumes in November, the company\nalso had to use temporary labour at the higher cost of $18 per hour. The total capacity\nof Carad Co's permanent workforce is 2,200 hours production per month, assuming\nfull efficiency. In the month of November, the workforce were wholly efficient, taking\nexactly 2 hours to complete each plasma TV and exactly 1.5 hours to produce each LCD\nTV. The total labour variance therefore relates solely to the temporary workers, who\ntook twice as long as the permanent workers to complete their production.",
+      "requirements": [
+        {
+          "label": "(a)(i)",
+          "text": "Calculate the sales price variance and sales volume contribution variance for November, showing all workings clearly. (4 marks)",
+          "marks": 4,
+          "tool": "spreadsheet"
+        },
+        {
+          "label": "(a)(ii)",
+          "text": "Calculate the material price planning variance and material price operational variance. (2 marks)",
+          "marks": 2,
+          "tool": "spreadsheet"
+        },
+        {
+          "label": "(a)(iii)",
+          "text": "Calculate the labour rate variance and the labour efficiency variance. (5 marks)",
+          "marks": 5,
+          "tool": "spreadsheet"
+        },
+        {
+          "label": "(b)",
+          "text": "Explain the reasons why Carad Co would be interested in the material price planning variance and the material price operational variance. (9 marks)",
+          "marks": 9,
+          "tool": "word"
+        }
+      ],
+      "rawRequired": "(a) Calculate the following for the month of November, showing all workings clearly:\n(i) The sales price variance and sales volume contribution variance (4 marks)\n(ii) The material price planning variance and material price operational variance\n(2 marks)\n(iii) The labour rate variance and the labour efficiency variance. (5 marks)\n(b) Explain the reasons why Carad Co would be interested in the material price planning\nvariance and the material price operational variance.\n(9 marks)\n(Total: 20 marks)",
+      "totalMarks": 20,
+      "modelAnswer": "(a) (i) Sales price variance and sales volume variance\nActual  |  Standard Difference  |  Actual  |  Sales price\nprice  |  price  |  volume  |  variance\n$  |  $  |  $  |  $\nPlasma TVs  |  330  |  350  |  –20  |  750  |  15,000 A\nLCD TVs  |  290  |  300  |  –10  |  650  |  6,500 A\n–––––––\n21,500 A\n–––––––\nSales volume contribution variance = (actual sales volume – budgeted sales\nvolume) × standard margin\nActual  |  Budgeted Difference Standard Sales price\nsales  |  sales  |  margin  |  variance\nvolume  |  volume\n$  |  $  |  $  |  $\nPlasma TVs  |  750  |  590  |  160  |  190  |  30,400 A\nLCD TVs  |  650  |  590  |  60  |  180  |  10,800 A\n–––––––\n1,400  |  1,180  |  41,200 A\n–––––––\n(ii) Material price planning and purchasing operational variances\nMaterial planning variance = (original target price – general market price at time\nof purchase) × quantity purchased\n($60 – $85) × 1,400 = $35,000 A\nMaterial price operational variance = (general market price at time of purchase\n– actual price paid) × quantity purchased\n($85 – $80) × 1,400 = $7,000 F\n(iii) Labour rate and labour efficiency variances\nLabour rate variance = (standard labour rate per hour – actual labour rate per\nhour) × actual hours worked\nActual hours worked by temporary workers:\nTotal hours needed if staff were fully efficient = (750 × 2) + (650 × 1.5) = 2,475.\nPermanent staff provide 2,200 hours, therefore excess = 2,475 – 2,200 = 275.\nHowever, temporary workers take twice as long, therefore hours worked = 275\n× 2 = 550.\nLabour rate variance relates solely to temporary workers; therefore ignore\npermanent staff in the calculation.\nLabour rate variance = ($14 – $18) × 550 = $2,200 A\nLabour efficiency variance = (standard labour hours for actual production –\nactual labour hours worked) × standard rate\n(275 – 550) × $14 = $3,850 A\n(b) Explanation of planning and operational variances\nBefore the material price planning and operational variances were calculated, the only\ninformation available as regards material purchasing was that there was an adverse\nmaterial price variance of $28,000. The purchasing department will be assessed on the\nbasis of this variance, yet, on its own, it is not a reliable indicator of the purchasing\ndepartment’s efficiency. The reason it is not a reliable indicator is because market\nconditions can change, leading to an increase in price, and this change in market\nconditions is not within the control of the purchasing department.\nBy analysing the materials price variance further and breaking it down into its two\ncomponents – planning and operational – the variance actually becomes a more useful\nassessment tool. The planning variance represents the uncontrollable element and the\noperational variance represents the controllable element.\nThe planning variance is really useful for providing feedback on just how skilled\nmanagement is in estimating future prices. This can be very easy in some businesses\nand very difficult in others. Giving this detail could help to improve planning and\nstandard setting in the future, as management will be increasingly aware of factors\nwhich could create volatility in their forecasts.\nThe operational variance is more meaningful in that it measures the purchasing\ndepartment’s efficiency given the market conditions which prevailed at the time. As\ncan be seen in Carad, the material price operational variance is favourable which\ndemonstrates that the purchasing department managed to acquire the component\nwhich was in short supply at a better price than expected. Without this breakdown in\nthe variance, the purchasing department could have been held accountable for the\noverall adverse variance which was not indicative of their actual performance. This is\nthen a fairer method of assessing performance and will, in turn, stop staff from\nbecoming demotivated.\nMarking scheme\nMarks\n(a)  |  (i) Sales price variance – Plasma  |  1\nSales price variance – LCD  |  1\nSales volume variance – Plasma  |  1\nSales volume variance – LCD  |  1\n(ii) Material price planning variance  |  1\nMaterial price operating variance  |  1\n(iii) Actual hours worked  |  3\nLabour rate variance  |  1\nLabour efficiency variance  |  1\n–––\n11\n–––\n(b)  |  Controllability  |  2\nMaterial price planning  |  3\nMaterial price operating  |  3\nOther – planning/operational  |  1\n–––\n9\n–––\nTotal  |  20\n–––",
+      "markingScheme": [
+        {
+          "label": "(a)(i) Sales price variance ($21,500 A) & sales volume contribution variance ($41,200 F)",
+          "marks": 4
+        },
+        {
+          "label": "(a)(ii) Material price planning ($35,000 A) & operational ($7,000 F) variances",
+          "marks": 2
+        },
+        {
+          "label": "(a)(iii) Temporary labour hours (550 hrs), labour rate ($2,200 A) & efficiency ($3,850 A)",
+          "marks": 5
+        },
+        {
+          "label": "(b) Material price planning variance explanation (uncontrollable market price shift, forecasting feedback)",
+          "marks": 4.5
+        },
+        {
+          "label": "(b) Material price operational variance explanation (controllable purchasing performance vs $85 market)",
+          "marks": 4.5
+        }
+      ],
+      "keyAnswerTip": "",
+      "tutorialNote": "",
+      "examinerComment": "",
+      "hasDiagram": false,
+      "hasDebrief": false,
+      "pdfQuestionPage": 471,
+      "pdfAnswerPage": 482
+    },
+    {
+      "id": "secC-32",
+      "number": 32,
+      "title": "THATCHER INTERNATIONAL PARK",
+      "sitting": "",
+      "topicId": "perf-measurement",
+      "topicTitle": "Performance Measurement & Control",
+      "scenario": "Thatcher International Park (TIP) is a theme park and has for many years been a successful\nbusiness, which has traded profitably. About three years ago the directors decided to\ncapitalise on their success and reduced the expenditure made on new thrill rides, reduced\nroutine maintenance where possible (deciding instead to repair equipment when it broke\ndown) and made a commitment to regularly increase admission prices. Once an admission\nprice is paid customers can use any of the facilities and rides for free.\nThese steps increased profits considerably, enabling good dividends to be paid to the owners\nand bonuses to the directors. An extract of financial results and performance information for\nthe last years is shown below:\n20X4  |  20X5\n$  |  $\nSales  |  5,250,000  |  5,320,000\nWages  |  2,500,000  |  2,200,000\nMaintenance – routine  |  80,000  |  70,000\nRepairs  |  260,000  |  320,000\nDirectors' salaries  |  150,000  |  160,000\nDirectors' bonuses  |  15,000  |  18,000\nOperating profit  |  1,045,000  |  1,372,000\nCarrying amount of assets at start of year  |  13,000,000  |  12,000,000\nDividend paid  |  500,000  |  650,000\nNumber of visitors  |  150,000  |  140,000\nTIP operates in a country where the average rate of inflation is around 1% per annum.\n\nDuring the early part of 20X4 TIP employed a newly qualified management accountant. He quickly became concerned about the potential performance of TIP and to investigate his concerns, he started to gather data to measure some non-financial measures of success.\n\nTable 1\nMetric | 20X4 | 20X5\nHours lost due to breakdown of rides | 9,000 hours | 32,000 hours\nAverage waiting time per ride | 20 minutes | 30 minutes\n\nNote: TIP has 50 rides of different types. It is open 360 days of the year for ten hours each day.",
+      "requirements": [
+        {
+          "label": "(a)",
+          "text": "Using the information provided, assess the financial performance of Thatcher International Park (TIP). (14 marks)",
+          "marks": 14,
+          "tool": "both"
+        },
+        {
+          "label": "(b)",
+          "text": "Assess the QUALITY of the service which TIP provides to its customers using Table 1 and any other relevant data and indicate the RISKS it is likely to face if it continues with its current policies. (6 marks)",
+          "marks": 6,
+          "tool": "word"
+        }
+      ],
+      "rawRequired": "(a) Using the information provided, assess the financial performance of Thatcher International Park (TIP). (14 marks)\n(b) Assess the QUALITY of the service which TIP provides to its customers using Table 1 and any other relevant data and indicate the RISKS it is likely to face if it continues with its current policies. (6 marks)\n(Total: 20 marks)",
+      "totalMarks": 20,
+      "modelAnswer": "(a) TIP’s financial performance can be assessed in a number of ways:\nSales growth\nSales are up about 1.3% (W1) which is a little above the rate of inflation and therefore\na move in the right direction. However, with average admission prices jumping about\n8.6% (W2) and numbers of visitors falling, there are clearly problems. Large increases\nin admission prices reduce the value proposition for the customer, it is unlikely that\nthe rate of increase is sustainable or even justifiable. Indeed with volumes falling\n(down by 6.7% (W6)), it appears that some customers are being put off and price could\nbe one of the reasons.\nMaintenance and repairs\nThere appears to be a continuing drift away from routine maintenance with\nmanagement preferring to repair equipment as required. This does not appear to be\nsaving any money as the combined cost of maintenance and repair is higher in 20X5\nthan in 20X4 (possible risks are dealt with in part (b)).\nDirectors’ pay\nAbsolute salary levels are up 6.7% (W3), well above the modest inflation rate. It\nappears that the shareholders are happy with the financial performance of the\nbusiness and are prepared to reward the directors accordingly. Bonus levels are also\nwell up. It may be that the directors have some form of profit related pay scheme and\nare being rewarded for the improved profit performance. The directors are likely to be\nvery pleased with the increases to pay.\nWages\nWages are down by 12% (W5). This may partly reflect the loss of customers (down by\n6.7% (W6)) if it is assumed that at least part of the wages cost is variable. It could also\nbe that the directors are reducing staff levels beyond the fall in the level of customers\nto enhance short-term profit and personal bonus. Customer service and indeed safety\ncould be compromised here.\nOperating profit\nOperating profit is up a huge 31.3% (W7) and most shareholders would be pleased\nwith that. Operating profit is a very traditional measure of performance and most\nwould say this was a sign of good performance.\nReturn on assets\nThe profitability can be measured relative to the asset base which is being used to\ngenerate it. This is sometimes referred to as ROI or return on investment. The return\non assets is up considerably to 11.4% from 8% (W8). This is partly due to the significant\nrise in profit and partly due to the fall in asset value. We are told that TIP has cut back\non new development, so the fall in asset value is probably due to depreciation being\ncharged with little being spent during the year on assets. In this regard it is inevitable\nthat return on assets is up but it is more questionable whether this is a good\nperformance. A theme park (and thrill rides in particular) must be updated to keep\ncustomers coming back. The directors of TIP are risking the future of the park.\nWorkings\n(W1) Sales growth is $5,320,000/$5,250,000 = 1.01333 or 1.3%.\n(W2) Average admission prices were: 20X4: $5,250,000/150,000 = $35 per person.\n20X5: $5,320,000/140,000 = $38 per person An increase of $38/$35 = 1.0857 or\n8.57%.\n(W3) Directors’ pay up by $160,000/$150,000 = 1.0667 or 6.7%.\n(W4) Directors’ bonuses levels up from $15,000/$150,000 or 10% to $18,000/\n$160,000 or 12.5% of turnover. This is an increase of 3/15 or 20%.\n(W5) Wages are down by (1 – $2,200,000/$2,500,000) or 12%.\n(W6) Loss of customers is (1 – 140,000/150,000) or 6.7%.\n(W7) Profits up by $1,372,000/$1,045,000 = 1.3129 or 31.3%.\n(W8) Return on assets:\n20X4: $1,045,000/$13,000,000 = 1.0803 or 8.03%\n20X5: $1,372,000/$12,000,000 = 1.114 or 11.4%\n(b) Quality provision\nReliability of the rides\nThe hours lost has increased significantly. Equally the percentage of capacity lost due\nto breakdowns is now approaching 17.8% (W9). This would appear to be a very high\nnumber of hours lost. This would surely increase the risk that customers are\ndisappointed being unable to ride. Given the fixed admission price system, this is\nbound to irritate some customers as they have effectively already paid to ride.\nAverage queuing time\nQueuing will be seen by customers as dead time. They may see some waiting as\ninevitable and hence acceptable. However, TIP should be careful to maintain waiting\ntimes at a minimum. An increase of 10 minutes (or 50%) is likely to be noticeable by\ncustomers and is unlikely to enhance the quality of the TIP experience for them. The\nincrease in waiting times is probably due to the high number of hours lost due to\nbreakdown with customers being forced to queue for a fewer number of ride options.\nSafety\nThe clear reduction in maintenance could easily damage the safety record of the park\nand is an obvious quality issue.\nRisks\nIf TIP continues with current policies, then they will expose themselves to the following\nrisks:\n• The lack of routine maintenance could easily lead to an accident or injury to a\ncustomer. This could lead to compensation being paid or reputational damage.\n• Increased competition. The continuous raising of admission prices increases the\nlikelihood of a new competitor entering the market (although there are\nsignificant barriers to entry in this market, e.g. capital cost, land and so on).\n• Loss of customers. The value for money which customers see when coming to\nTIP is clearly reducing (higher prices, less reliability of rides and longer queues).\nRegardless of the existence of competition, customers could simply choose not\nto come, substituting another leisure activity instead.\n• Profit fall. In the end if customers’ numbers fall, then so will profit. The\nshareholders, although well rewarded at the moment, could suffer a loss of\ndividend. Directors’ job security could then be threatened.\nWorkings:\n(W9) Capacity of rides in hours is 360 days × 50 rides × 10 hours per day = 180,000.\n20X4 lost capacity is 9,000/180,000 = 0.05 or 5%.\n20X5 lost capacity is 32,000/180,000 = 0.177 or 17.8%.\nMarking scheme\nMarks\n(a)  |  Sales growth  |  3\nMaintenance  |  3\nDirectors’ pay  |  2\nWages  |  2\nOperating profit  |  2\nReturn on assets  |  2\n–––\n14\n–––\n(b)  |  Reliability of rides  |  2\nAverage queuing time  |  2\nRisks  |  2\n–––\n6\n–––\nTotal  |  20\n–––",
+      "markingScheme": [
+        {
+          "label": "(a) Sales growth (+1.3%) & ticket price (+8.6%) vs falling visitors (-6.7%)",
+          "marks": 3
+        },
+        {
+          "label": "(a) Maintenance & repairs analysis (shift away from routine maintenance)",
+          "marks": 3
+        },
+        {
+          "label": "(a) Directors pay (+6.7%) and bonus (+20%) assessment",
+          "marks": 2
+        },
+        {
+          "label": "(a) Wages (-12% vs -6.7% visitor fall)",
+          "marks": 2
+        },
+        {
+          "label": "(a) Operating profit (+31.3%) & dividend growth",
+          "marks": 2
+        },
+        {
+          "label": "(a) Return on assets (8.03% -> 11.4%)",
+          "marks": 2
+        },
+        {
+          "label": "(b) Reliability of rides (lost capacity 5.0% -> 17.8%)",
+          "marks": 2
+        },
+        {
+          "label": "(b) Average queuing time (+10 mins / +50%)",
+          "marks": 2
+        },
+        {
+          "label": "(b) Strategic risks (safety, visitor defection, long-term profit fall)",
+          "marks": 2
+        }
+      ],
+      "keyAnswerTip": "",
+      "tutorialNote": "",
+      "examinerComment": "",
+      "hasDiagram": false,
+      "hasDebrief": false,
+      "pdfQuestionPage": 472,
+      "pdfAnswerPage": 484
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+[
+  {
+    "id": "mis-data",
+    "code": "A",
+    "title": "Management Information Systems & Data Analytics",
+    "shortTitle": "MIS & Data Analytics",
+    "subtopics": [
+      {
+        "id": "mis",
+        "title": "Management information systems",
+        "qStart": 1,
+        "qEnd": 15
+      },
+      {
+        "id": "info-control",
+        "title": "Uses and control of information",
+        "qStart": 16,
+        "qEnd": 22
+      },
+      {
+        "id": "big-data",
+        "title": "Big data and data analytics",
+        "qStart": 23,
+        "qEnd": 28
+      }
+    ]
+  },
+  {
+    "id": "specialist-cost",
+    "code": "B",
+    "title": "Specialist Cost & Management Accounting Techniques",
+    "shortTitle": "Specialist Costing",
+    "subtopics": [
+      {
+        "id": "abc",
+        "title": "Activity-based costing",
+        "qStart": 29,
+        "qEnd": 41
+      },
+      {
+        "id": "target-costing",
+        "title": "Target costing",
+        "qStart": 42,
+        "qEnd": 46
+      },
+      {
+        "id": "lifecycle",
+        "title": "Life-cycle costing",
+        "qStart": 47,
+        "qEnd": 54
+      },
+      {
+        "id": "throughput",
+        "title": "Throughput accounting",
+        "qStart": 55,
+        "qEnd": 59
+      },
+      {
+        "id": "environmental",
+        "title": "Environmental accounting",
+        "qStart": 60,
+        "qEnd": 69
+      }
+    ]
+  },
+  {
+    "id": "decision-making",
+    "code": "C",
+    "title": "Decision-Making Techniques",
+    "shortTitle": "Decision-Making",
+    "subtopics": [
+      {
+        "id": "relevant-cost",
+        "title": "Relevant cost analysis",
+        "qStart": 70,
+        "qEnd": 77
+      },
+      {
+        "id": "cvp",
+        "title": "Cost volume profit analysis",
+        "qStart": 78,
+        "qEnd": 92
+      },
+      {
+        "id": "limiting-factors",
+        "title": "Limiting factors",
+        "qStart": 93,
+        "qEnd": 103
+      },
+      {
+        "id": "pricing",
+        "title": "Pricing decisions",
+        "qStart": 104,
+        "qEnd": 112
+      },
+      {
+        "id": "make-or-buy",
+        "title": "Make-or-buy and other short term decisions",
+        "qStart": 113,
+        "qEnd": 119
+      },
+      {
+        "id": "risk-uncertainty",
+        "title": "Dealing with risk and uncertainty in decision-making",
+        "qStart": 120,
+        "qEnd": 131
+      }
+    ]
+  },
+  {
+    "id": "budgeting-control",
+    "code": "D",
+    "title": "Budgeting and Control",
+    "shortTitle": "Budgeting & Control",
+    "subtopics": [
+      {
+        "id": "budget-systems",
+        "title": "Budgetary systems and types of budget",
+        "qStart": 132,
+        "qEnd": 147
+      },
+      {
+        "id": "quant-tech",
+        "title": "Quantitative techniques",
+        "qStart": 148,
+        "qEnd": 163
+      },
+      {
+        "id": "std-costing",
+        "title": "Standard costing",
+        "qStart": 164,
+        "qEnd": 169
+      },
+      {
+        "id": "mix-yield",
+        "title": "Mix and yield variances",
+        "qStart": 170,
+        "qEnd": 180
+      },
+      {
+        "id": "sales-mix",
+        "title": "Sales mix and quantity variances",
+        "qStart": 181,
+        "qEnd": 187
+      },
+      {
+        "id": "plan-op",
+        "title": "Planning and operational variances",
+        "qStart": 188,
+        "qEnd": 194
+      },
+      {
+        "id": "perf-analysis-budget",
+        "title": "Performance analysis",
+        "qStart": 195,
+        "qEnd": 196
+      }
+    ]
+  },
+  {
+    "id": "perf-measurement",
+    "code": "E",
+    "title": "Performance Measurement & Control",
+    "shortTitle": "Performance Measurement",
+    "subtopics": [
+      {
+        "id": "private-public-nfp",
+        "title": "Performance analysis in private, public & NFP organisations",
+        "qStart": 197,
+        "qEnd": 211
+      },
+      {
+        "id": "divisional-tp",
+        "title": "Divisional performance and transfer pricing",
+        "qStart": 212,
+        "qEnd": 218
+      },
+      {
+        "id": "nfp-public",
+        "title": "Performance analysis issues in NFP & public sector",
+        "qStart": 219,
+        "qEnd": 224
+      },
+      {
+        "id": "external-consid",
+        "title": "External considerations and the impact on performance",
+        "qStart": 225,
+        "qEnd": 229
+      }
+    ]
+  }
+]

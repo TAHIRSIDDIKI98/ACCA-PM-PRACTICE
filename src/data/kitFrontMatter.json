@@ -1,0 +1,197 @@
+{
+  "edition": "September 2025, December 2025, March 2026 & June 2026",
+  "examFormat": {
+    "durationMinutes": 180,
+    "readingMinutes": 10,
+    "passMark": 50,
+    "totalMarks": 100,
+    "minutesPerMark": 1.8,
+    "sections": [
+      {
+        "name": "Section A",
+        "description": "15 Objective Test Questions (2 marks each)",
+        "marks": 30,
+        "recommendedMinutes": 54
+      },
+      {
+        "name": "Section B",
+        "description": "3 OT Case Studies (5 questions × 2 marks each)",
+        "marks": 30,
+        "recommendedMinutes": 54
+      },
+      {
+        "name": "Section C",
+        "description": "2 Constructed Response Questions (20 marks each)",
+        "marks": 40,
+        "recommendedMinutes": 72
+      }
+    ]
+  },
+  "revisionStages": [
+    {
+      "stage": "Stage 1",
+      "title": "Revision of Knowledge",
+      "description": "Review your Study Text and Pocket Notes chapter-by-chapter across all 5 syllabus domains before tackling timed exam-kit questions."
+    },
+    {
+      "stage": "Stage 2",
+      "title": "Question Practice (Detailed Plan)",
+      "description": "Work systematically through Kaplan’s recommended Section A, Section B, and Section C questions by topic. Observe the strict 1.8 minutes per mark timing rule."
+    },
+    {
+      "stage": "Stage 3",
+      "title": "Final Mock Exam",
+      "description": "Sit the full 3-hour CBE Specimen Exam (Section A Q1–15, Section B Glam Co / Chair Co / Hi Life Co, Section C Carad Co / Thatcher International Park) under strict exam conditions."
+    }
+  ],
+  "detailedPlan": [
+    {
+      "topicId": "mis-data",
+      "topic": "Information, Technologies & Systems for Organisational Performance",
+      "chapters": "Study Text Ch 1–3 · Pocket Notes Ch 1–3",
+      "secAQuestions": [
+        1,
+        28
+      ],
+      "secBQuestions": [],
+      "secCQuestions": [],
+      "tutorGuidance": "Questions on systems, information security (ACCURATE, TPS/MIS/EIS/ERP), and big data (4Vs) prepare you well for Section A and potential Section B/C narratives."
+    },
+    {
+      "topicId": "specialist-cost",
+      "topic": "Specialist Cost & Management Accounting Techniques",
+      "chapters": "Study Text Ch 4–8 · Pocket Notes Ch 4–8",
+      "secAQuestions": [
+        29,
+        69
+      ],
+      "secBQuestions": [
+        230,
+        243
+      ],
+      "secCQuestions": [],
+      "tutorGuidance": "Compare full absorption costing vs ABC; master target cost gaps, full life-cycle costing, Throughput Accounting Ratio (TPAR), and environmental cost categories (Hansen & Mendoza)."
+    },
+    {
+      "topicId": "decision-making",
+      "topic": "Decision-Making Techniques",
+      "chapters": "Study Text Ch 9–14 · Pocket Notes Ch 9–14",
+      "secAQuestions": [
+        70,
+        131
+      ],
+      "secBQuestions": [
+        244,
+        255
+      ],
+      "secCQuestions": [
+        264,
+        277
+      ],
+      "tutorGuidance": "Drill relevant cash flows, multi-product breakeven/C/S ratios, linear programming shadow prices & slack, demand equation P = a − bQ, make-or-buy, and risk criteria (maximax, maximin, minimax regret, EV)."
+    },
+    {
+      "topicId": "budgeting-control",
+      "topic": "Budgeting and Control",
+      "chapters": "Study Text Ch 15–19 · Pocket Notes Ch 15–19",
+      "secAQuestions": [
+        132,
+        196
+      ],
+      "secBQuestions": [
+        256,
+        263
+      ],
+      "secCQuestions": [
+        278,
+        288
+      ],
+      "tutorGuidance": "Practice rolling budgets (Static Co), learning curves (Henry Company), regression (Venhosp), materials mix & yield (Kappa Co), sales mix & quantity, and planning vs operational variances."
+    },
+    {
+      "topicId": "perf-measurement",
+      "topic": "Performance Measurement & Control",
+      "chapters": "Study Text Ch 20–23 · Pocket Notes Ch 20–23",
+      "secAQuestions": [
+        197,
+        229
+      ],
+      "secBQuestions": [],
+      "secCQuestions": [
+        289,
+        309
+      ],
+      "tutorGuidance": "Master ROI vs RI, transfer pricing ranges (min = MC + lost contribution; max = external market price), Balanced Scorecard, Fitzgerald & Moon Building Block model, and NFP Value For Money (3Es: Economy, Efficiency, Effectiveness)."
+    }
+  ],
+  "pastExamAnalysis": [
+    {
+      "area": "Specialist Costing",
+      "topic": "ABC / Target / Lifecycle / Throughput",
+      "sessions": [
+        "S20/D20",
+        "M21/J21",
+        "M22/J22",
+        "S22/D22",
+        "M23/J23",
+        "S23/D23",
+        "M24/J24"
+      ]
+    },
+    {
+      "area": "Decision Making",
+      "topic": "CVP, Key Factor, Linear Programming, Pricing, Relevant Cost, Risk",
+      "sessions": [
+        "M20/J20",
+        "S20/D20",
+        "M21/J21",
+        "S21/D21",
+        "M22/J22",
+        "S22/D22",
+        "M23/J23",
+        "S23/D23",
+        "M24/J24",
+        "S24/D24"
+      ]
+    },
+    {
+      "area": "Budgeting & Control",
+      "topic": "Budgeting, Regression, Learning Curves, Mix/Yield, Planning/Op Variances",
+      "sessions": [
+        "M20/J20",
+        "S20/D20",
+        "M21/J21",
+        "S21/D21",
+        "M22/J22",
+        "S22/D22",
+        "M23/J23",
+        "S23/D23",
+        "M24/J24",
+        "S24/D24"
+      ]
+    },
+    {
+      "area": "Performance Measurement",
+      "topic": "Financial & Non-Financial KPIs, ROI/RI, Transfer Pricing, NFP/3Es",
+      "sessions": [
+        "M20/J20",
+        "S20/D20",
+        "M21/J21",
+        "S21/D21",
+        "M22/J22",
+        "S22/D22",
+        "M23/J23",
+        "S23/D23",
+        "M24/J24",
+        "S24/D24"
+      ]
+    }
+  ],
+  "examTechniqueTips": [
+    "Observe the strict 1.8 minutes per mark rule: 36 minutes for a 20-mark Section C question.",
+    "Always show clear workings inside the CBE spreadsheet using cell references and formulas (e.g. =SUM, =AVERAGE) to protect method marks.",
+    "In Section C narrative parts, plan headings in the Scratchpad first, then address the exact company scenario rather than writing generic textbook points.",
+    "Do not leave any OTQ blank in Section A or B — there is no negative marking.",
+    "Use Flag for Review on time-consuming quantitative OTQs and return once easier conceptual marks are banked."
+  ]
+}
